@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\labacitivity_BRAR\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\labacitivity_BRAR\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.exe
+c:\users\plenary\documents\visual studio 2017\Projects\labacitivity_BRAR\Sample3_InputMyName\bin\Debug\Sample3_InputMyName.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\labacitivity_BRAR\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.exe
+c:\users\plenary\documents\visual studio 2017\Projects\labacitivity_BRAR\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\labacitivity_BRAR\Sample3_InputMyName\obj\Debug\Sample3_InputMyName.csprojResolveAssemblyReference.cache
