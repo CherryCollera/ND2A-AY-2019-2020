@@ -1,0 +1,5 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Caguimbal\LabActivity1_Caguimbal\bin\Debug\LabActivity1_Caguimbal.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Caguimbal\LabActivity1_Caguimbal\bin\Debug\LabActivity1_Caguimbal.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Caguimbal\LabActivity1_Caguimbal\bin\Debug\LabActivity1_Caguimbal.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Caguimbal\LabActivity1_Caguimbal\obj\Debug\LabActivity1_Caguimbal.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Caguimbal\LabActivity1_Caguimbal\obj\Debug\LabActivity1_Caguimbal.pdb
