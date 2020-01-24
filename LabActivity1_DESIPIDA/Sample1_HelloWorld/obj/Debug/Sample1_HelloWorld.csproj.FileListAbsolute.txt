@@ -1,0 +1,5 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_DESIPIDA\LabActivity1_DESIPIDA\bin\Debug\LabActivity1_DESIPIDA.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_DESIPIDA\LabActivity1_DESIPIDA\bin\Debug\LabActivity1_DESIPIDA.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_DESIPIDA\LabActivity1_DESIPIDA\bin\Debug\LabActivity1_DESIPIDA.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_DESIPIDA\LabActivity1_DESIPIDA\obj\Debug\LabActivity1_DESIPIDA.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_DESIPIDA\LabActivity1_DESIPIDA\obj\Debug\LabActivity1_DESIPIDA.pdb
