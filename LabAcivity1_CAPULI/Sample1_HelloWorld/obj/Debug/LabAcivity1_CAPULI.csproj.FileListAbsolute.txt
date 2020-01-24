@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabAcivity1_CAPULI\LabAcivity1_CAPULI\bin\Debug\LabAcivity1_CAPULI.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabAcivity1_CAPULI\LabAcivity1_CAPULI\bin\Debug\LabAcivity1_CAPULI.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabAcivity1_CAPULI\LabAcivity1_CAPULI\bin\Debug\LabAcivity1_CAPULI.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabAcivity1_CAPULI\LabAcivity1_CAPULI\obj\Debug\LabAcivity1_CAPULI.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabAcivity1_CAPULI\LabAcivity1_CAPULI\obj\Debug\LabAcivity1_CAPULI.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabAcivity1_CAPULI\LabAcivity1_CAPULI\obj\Debug\LabAcivity1_CAPULI.pdb
