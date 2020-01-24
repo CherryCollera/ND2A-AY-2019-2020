@@ -1,0 +1,5 @@
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity1_DelaRosa\Labactivity1_DelaRosa\bin\Debug\Labactivity1_DelaRosa.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity1_DelaRosa\Labactivity1_DelaRosa\bin\Debug\Labactivity1_DelaRosa.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity1_DelaRosa\Labactivity1_DelaRosa\bin\Debug\Labactivity1_DelaRosa.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity1_DelaRosa\Labactivity1_DelaRosa\obj\Debug\Labactivity1_DelaRosa.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity1_DelaRosa\Labactivity1_DelaRosa\obj\Debug\Labactivity1_DelaRosa.pdb
