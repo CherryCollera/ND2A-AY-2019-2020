@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\labactivity1_CANLONG\labactivity1_CANLONG\obj\Debug\labactivity1_CANLONG.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\labactivity1_CANLONG\labactivity1_CANLONG\bin\Debug\labactivity1_CANLONG.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\labactivity1_CANLONG\labactivity1_CANLONG\bin\Debug\labactivity1_CANLONG.exe
+c:\users\plenary\documents\visual studio 2017\Projects\labactivity1_CANLONG\labactivity1_CANLONG\bin\Debug\labactivity1_CANLONG.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\labactivity1_CANLONG\labactivity1_CANLONG\obj\Debug\labactivity1_CANLONG.exe
+c:\users\plenary\documents\visual studio 2017\Projects\labactivity1_CANLONG\labactivity1_CANLONG\obj\Debug\labactivity1_CANLONG.pdb
