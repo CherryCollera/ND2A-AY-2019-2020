@@ -1,0 +1,5 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct1_Miller\LabAct1_Miller\bin\Debug\LabAct1_Miller.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct1_Miller\LabAct1_Miller\bin\Debug\LabAct1_Miller.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct1_Miller\LabAct1_Miller\bin\Debug\LabAct1_Miller.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct1_Miller\LabAct1_Miller\obj\Debug\LabAct1_Miller.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct1_Miller\LabAct1_Miller\obj\Debug\LabAct1_Miller.pdb
