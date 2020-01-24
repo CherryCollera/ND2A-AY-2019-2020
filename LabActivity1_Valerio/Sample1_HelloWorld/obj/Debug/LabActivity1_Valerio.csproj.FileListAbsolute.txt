@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Valerio\LabActivity1_Valerio\bin\Debug\LabActivity1_Valerio.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Valerio\LabActivity1_Valerio\bin\Debug\LabActivity1_Valerio.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Valerio\LabActivity1_Valerio\bin\Debug\LabActivity1_Valerio.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Valerio\LabActivity1_Valerio\obj\Debug\LabActivity1_Valerio.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Valerio\LabActivity1_Valerio\obj\Debug\LabActivity1_Valerio.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Valerio\LabActivity1_Valerio\obj\Debug\LabActivity1_Valerio.pdb
