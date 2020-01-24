@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabAcitivity1_Jimenez\LabAcitivity1_Jimenez\bin\Debug\LabAcitivity1_Jimenez.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabAcitivity1_Jimenez\LabAcitivity1_Jimenez\bin\Debug\LabAcitivity1_Jimenez.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabAcitivity1_Jimenez\LabAcitivity1_Jimenez\bin\Debug\LabAcitivity1_Jimenez.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabAcitivity1_Jimenez\LabAcitivity1_Jimenez\obj\Debug\LabAcitivity1_Jimenez.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabAcitivity1_Jimenez\LabAcitivity1_Jimenez\obj\Debug\LabAcitivity1_Jimenez.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabAcitivity1_Jimenez\LabAcitivity1_Jimenez\obj\Debug\LabAcitivity1_Jimenez.pdb

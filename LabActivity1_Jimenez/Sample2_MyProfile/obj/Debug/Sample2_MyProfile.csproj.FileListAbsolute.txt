@@ -1,0 +1,5 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabAcitivity1_Jimenez\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabAcitivity1_Jimenez\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabAcitivity1_Jimenez\Sample2_MyProfile\bin\Debug\Sample2_MyProfile.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabAcitivity1_Jimenez\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabAcitivity1_Jimenez\Sample2_MyProfile\obj\Debug\Sample2_MyProfile.pdb
