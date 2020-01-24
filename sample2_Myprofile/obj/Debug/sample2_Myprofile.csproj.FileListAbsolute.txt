@@ -1,0 +1,5 @@
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity1_DelaRosa\sample2_Myprofile\bin\Debug\sample2_Myprofile.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity1_DelaRosa\sample2_Myprofile\bin\Debug\sample2_Myprofile.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity1_DelaRosa\sample2_Myprofile\bin\Debug\sample2_Myprofile.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity1_DelaRosa\sample2_Myprofile\obj\Debug\sample2_Myprofile.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity1_DelaRosa\sample2_Myprofile\obj\Debug\sample2_Myprofile.pdb
