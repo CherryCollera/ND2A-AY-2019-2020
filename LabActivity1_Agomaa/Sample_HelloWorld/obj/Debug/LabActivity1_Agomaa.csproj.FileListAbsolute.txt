@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Agomaa\LabActivity1_Agomaa\bin\Debug\LabActivity1_Agomaa.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Agomaa\LabActivity1_Agomaa\bin\Debug\LabActivity1_Agomaa.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Agomaa\LabActivity1_Agomaa\bin\Debug\LabActivity1_Agomaa.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Agomaa\LabActivity1_Agomaa\obj\Debug\LabActivity1_Agomaa.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Agomaa\LabActivity1_Agomaa\obj\Debug\LabActivity1_Agomaa.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Agomaa\LabActivity1_Agomaa\obj\Debug\LabActivity1_Agomaa.pdb
