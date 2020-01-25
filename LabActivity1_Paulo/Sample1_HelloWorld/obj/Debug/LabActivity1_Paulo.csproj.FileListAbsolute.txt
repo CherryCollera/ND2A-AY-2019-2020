@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Paulo\LabActivity1_Paulo\bin\Debug\LabActivity1_Paulo.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Paulo\LabActivity1_Paulo\bin\Debug\LabActivity1_Paulo.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Paulo\LabActivity1_Paulo\bin\Debug\LabActivity1_Paulo.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Paulo\LabActivity1_Paulo\obj\Debug\LabActivity1_Paulo.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Paulo\LabActivity1_Paulo\obj\Debug\LabActivity1_Paulo.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity1_Paulo\LabActivity1_Paulo\obj\Debug\LabActivity1_Paulo.pdb
