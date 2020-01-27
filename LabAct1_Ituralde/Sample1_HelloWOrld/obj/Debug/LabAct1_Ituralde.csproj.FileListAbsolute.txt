@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct1_Ituralde\LabAct1_Ituralde\bin\Debug\LabAct1_Ituralde.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct1_Ituralde\LabAct1_Ituralde\bin\Debug\LabAct1_Ituralde.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct1_Ituralde\LabAct1_Ituralde\bin\Debug\LabAct1_Ituralde.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct1_Ituralde\LabAct1_Ituralde\obj\Debug\LabAct1_Ituralde.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct1_Ituralde\LabAct1_Ituralde\obj\Debug\LabAct1_Ituralde.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct1_Ituralde\LabAct1_Ituralde\obj\Debug\LabAct1_Ituralde.pdb
