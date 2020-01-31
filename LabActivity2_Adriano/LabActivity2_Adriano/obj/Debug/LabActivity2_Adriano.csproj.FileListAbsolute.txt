@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Adriano\LabActivity2_Adriano\bin\Debug\LabActivity2_Adriano.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Adriano\LabActivity2_Adriano\bin\Debug\LabActivity2_Adriano.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Adriano\LabActivity2_Adriano\bin\Debug\LabActivity2_Adriano.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Adriano\LabActivity2_Adriano\obj\Debug\LabActivity2_Adriano.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Adriano\LabActivity2_Adriano\obj\Debug\LabActivity2_Adriano.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Adriano\LabActivity2_Adriano\obj\Debug\LabActivity2_Adriano.pdb
