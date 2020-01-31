@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\Computesum\obj\Debug\Computesum.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\Computesum\bin\Debug\Computesum.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\Computesum\bin\Debug\Computesum.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\Computesum\bin\Debug\Computesum.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\Computesum\obj\Debug\Computesum.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\Computesum\obj\Debug\Computesum.pdb

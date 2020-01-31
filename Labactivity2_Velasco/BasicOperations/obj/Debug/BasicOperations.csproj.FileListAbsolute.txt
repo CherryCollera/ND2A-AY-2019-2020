@@ -1,0 +1,5 @@
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\BasicOperations\bin\Debug\BasicOperations.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\BasicOperations\bin\Debug\BasicOperations.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\BasicOperations\bin\Debug\BasicOperations.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\BasicOperations\obj\Debug\BasicOperations.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\BasicOperations\obj\Debug\BasicOperations.pdb

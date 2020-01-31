@@ -1,0 +1,5 @@
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\IfElse\bin\Debug\IfElse.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\IfElse\bin\Debug\IfElse.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\IfElse\bin\Debug\IfElse.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\IfElse\obj\Debug\IfElse.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\IfElse\obj\Debug\IfElse.pdb

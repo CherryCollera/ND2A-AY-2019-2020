@@ -1,0 +1,5 @@
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\ComputeAverage\bin\Debug\ComputeAverage.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\ComputeAverage\bin\Debug\ComputeAverage.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\ComputeAverage\bin\Debug\ComputeAverage.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\ComputeAverage\obj\Debug\ComputeAverage.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2_Velasco\ComputeAverage\obj\Debug\ComputeAverage.pdb
