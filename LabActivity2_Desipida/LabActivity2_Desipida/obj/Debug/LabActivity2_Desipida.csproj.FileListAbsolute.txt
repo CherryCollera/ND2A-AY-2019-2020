@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Desipida\LabActivity2_Desipida\bin\Debug\LabActivity2_Desipida.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Desipida\LabActivity2_Desipida\bin\Debug\LabActivity2_Desipida.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Desipida\LabActivity2_Desipida\bin\Debug\LabActivity2_Desipida.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Desipida\LabActivity2_Desipida\obj\Debug\LabActivity2_Desipida.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Desipida\LabActivity2_Desipida\obj\Debug\LabActivity2_Desipida.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Desipida\LabActivity2_Desipida\obj\Debug\LabActivity2_Desipida.pdb
