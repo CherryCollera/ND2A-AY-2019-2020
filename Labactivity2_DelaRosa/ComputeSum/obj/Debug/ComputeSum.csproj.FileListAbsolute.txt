@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2\ComputeSum\bin\Debug\ComputeSum.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2\ComputeSum\bin\Debug\ComputeSum.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2\ComputeSum\bin\Debug\ComputeSum.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2\ComputeSum\obj\Debug\ComputeSum.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2\ComputeSum\obj\Debug\ComputeSum.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2\ComputeSum\obj\Debug\ComputeSum.pdb

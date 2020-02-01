@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2\BasicOperations\bin\Debug\BasicOperations.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2\BasicOperations\bin\Debug\BasicOperations.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2\BasicOperations\bin\Debug\BasicOperations.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2\BasicOperations\obj\Debug\BasicOperations.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Labactivity2\BasicOperations\obj\Debug\BasicOperations.pdb
+C:\Users\Plenary\documents\visual studio 2017\Projects\Labactivity2\BasicOperations\obj\Debug\BasicOperations.csprojResolveAssemblyReference.cache
