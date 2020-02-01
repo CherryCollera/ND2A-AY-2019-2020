@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Paulo\IfElse\bin\Debug\IfElse.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Paulo\IfElse\bin\Debug\IfElse.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Paulo\IfElse\bin\Debug\IfElse.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Paulo\IfElse\obj\Debug\IfElse.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Paulo\IfElse\obj\Debug\IfElse.pdb
+C:\Users\Plenary\Documents\Visual Studio 2017\Projects\LabActivity2_Paulo\IfElse\obj\Debug\IfElse.csprojResolveAssemblyReference.cache

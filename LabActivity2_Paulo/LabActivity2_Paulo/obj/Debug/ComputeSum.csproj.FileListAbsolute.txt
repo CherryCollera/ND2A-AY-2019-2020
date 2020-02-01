@@ -1,0 +1,5 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Paulo\LabActivity2_Paulo\bin\Debug\LabActivity2_Paulo.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Paulo\LabActivity2_Paulo\bin\Debug\LabActivity2_Paulo.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Paulo\LabActivity2_Paulo\bin\Debug\LabActivity2_Paulo.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Paulo\LabActivity2_Paulo\obj\Debug\LabActivity2_Paulo.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Paulo\LabActivity2_Paulo\obj\Debug\LabActivity2_Paulo.pdb
