@@ -1,0 +1,12 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Caguimbal\LabActivity2_Caguimbal\bin\Debug\LabActivity2_Caguimbal.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Caguimbal\LabActivity2_Caguimbal\bin\Debug\LabActivity2_Caguimbal.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Caguimbal\LabActivity2_Caguimbal\bin\Debug\LabActivity2_Caguimbal.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Caguimbal\LabActivity2_Caguimbal\obj\Debug\LabActivity2_Caguimbal.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Caguimbal\LabActivity2_Caguimbal\obj\Debug\LabActivity2_Caguimbal.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Caguimbal\LabActivity2_Caguimbal\obj\Debug\LabActivity2_Caguimbal.pdb
+D:\LabActivity2_Caguimbal\LabActivity2_Caguimbal\bin\Debug\LabActivity2_Caguimbal.exe.config
+D:\LabActivity2_Caguimbal\LabActivity2_Caguimbal\bin\Debug\LabActivity2_Caguimbal.exe
+D:\LabActivity2_Caguimbal\LabActivity2_Caguimbal\bin\Debug\LabActivity2_Caguimbal.pdb
+D:\LabActivity2_Caguimbal\LabActivity2_Caguimbal\obj\Debug\LabActivity2_Caguimbal.csprojResolveAssemblyReference.cache
+D:\LabActivity2_Caguimbal\LabActivity2_Caguimbal\obj\Debug\LabActivity2_Caguimbal.exe
+D:\LabActivity2_Caguimbal\LabActivity2_Caguimbal\obj\Debug\LabActivity2_Caguimbal.pdb

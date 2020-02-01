@@ -1,0 +1,11 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Caguimbal\DeclaringConstant\bin\Debug\DeclaringConstant.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Caguimbal\DeclaringConstant\bin\Debug\DeclaringConstant.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Caguimbal\DeclaringConstant\bin\Debug\DeclaringConstant.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Caguimbal\DeclaringConstant\obj\Debug\DeclaringConstant.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Caguimbal\DeclaringConstant\obj\Debug\DeclaringConstant.pdb
+D:\LabActivity2_Caguimbal\DeclaringConstant\bin\Debug\DeclaringConstant.exe.config
+D:\LabActivity2_Caguimbal\DeclaringConstant\bin\Debug\DeclaringConstant.exe
+D:\LabActivity2_Caguimbal\DeclaringConstant\bin\Debug\DeclaringConstant.pdb
+D:\LabActivity2_Caguimbal\DeclaringConstant\obj\Debug\DeclaringConstant.csprojResolveAssemblyReference.cache
+D:\LabActivity2_Caguimbal\DeclaringConstant\obj\Debug\DeclaringConstant.exe
+D:\LabActivity2_Caguimbal\DeclaringConstant\obj\Debug\DeclaringConstant.pdb
