@@ -1,0 +1,9 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeAverage\bin\Debug\netcoreapp1.1\ComputeAverage.deps.json
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeAverage\bin\Debug\netcoreapp1.1\ComputeAverage.runtimeconfig.json
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeAverage\bin\Debug\netcoreapp1.1\ComputeAverage.runtimeconfig.dev.json
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeAverage\bin\Debug\netcoreapp1.1\ComputeAverage.dll
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeAverage\bin\Debug\netcoreapp1.1\ComputeAverage.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeAverage\obj\Debug\netcoreapp1.1\ComputeAverage.AssemblyInfo.cs
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeAverage\obj\Debug\netcoreapp1.1\ComputeAverage.dll
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeAverage\obj\Debug\netcoreapp1.1\ComputeAverage.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeAverage\obj\Debug\netcoreapp1.1\ComputeAverage.csprojResolveAssemblyReference.cache

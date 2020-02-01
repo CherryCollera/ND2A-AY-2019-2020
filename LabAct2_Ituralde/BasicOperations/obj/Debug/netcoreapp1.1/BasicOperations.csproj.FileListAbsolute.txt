@@ -1,0 +1,8 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\BasicOperations\bin\Debug\netcoreapp1.1\BasicOperations.deps.json
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\BasicOperations\bin\Debug\netcoreapp1.1\BasicOperations.runtimeconfig.json
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\BasicOperations\bin\Debug\netcoreapp1.1\BasicOperations.runtimeconfig.dev.json
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\BasicOperations\bin\Debug\netcoreapp1.1\BasicOperations.dll
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\BasicOperations\bin\Debug\netcoreapp1.1\BasicOperations.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\BasicOperations\obj\Debug\netcoreapp1.1\BasicOperations.AssemblyInfo.cs
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\BasicOperations\obj\Debug\netcoreapp1.1\BasicOperations.dll
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\BasicOperations\obj\Debug\netcoreapp1.1\BasicOperations.pdb
