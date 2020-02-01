@@ -1,0 +1,9 @@
+D:\LabActivity2_Gelvoleo\BasicOperation\bin\Debug\netcoreapp1.1\BasicOperation.deps.json
+D:\LabActivity2_Gelvoleo\BasicOperation\bin\Debug\netcoreapp1.1\BasicOperation.runtimeconfig.json
+D:\LabActivity2_Gelvoleo\BasicOperation\bin\Debug\netcoreapp1.1\BasicOperation.runtimeconfig.dev.json
+D:\LabActivity2_Gelvoleo\BasicOperation\bin\Debug\netcoreapp1.1\BasicOperation.dll
+D:\LabActivity2_Gelvoleo\BasicOperation\bin\Debug\netcoreapp1.1\BasicOperation.pdb
+D:\LabActivity2_Gelvoleo\BasicOperation\obj\Debug\netcoreapp1.1\BasicOperation.csprojResolveAssemblyReference.cache
+D:\LabActivity2_Gelvoleo\BasicOperation\obj\Debug\netcoreapp1.1\BasicOperation.AssemblyInfo.cs
+D:\LabActivity2_Gelvoleo\BasicOperation\obj\Debug\netcoreapp1.1\BasicOperation.dll
+D:\LabActivity2_Gelvoleo\BasicOperation\obj\Debug\netcoreapp1.1\BasicOperation.pdb

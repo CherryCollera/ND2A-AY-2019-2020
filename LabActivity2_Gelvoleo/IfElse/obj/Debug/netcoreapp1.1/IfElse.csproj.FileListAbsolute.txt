@@ -1,0 +1,17 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Gelvoleo\IfElse\bin\Debug\netcoreapp1.1\IfElse.deps.json
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Gelvoleo\IfElse\bin\Debug\netcoreapp1.1\IfElse.runtimeconfig.json
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Gelvoleo\IfElse\bin\Debug\netcoreapp1.1\IfElse.runtimeconfig.dev.json
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Gelvoleo\IfElse\bin\Debug\netcoreapp1.1\IfElse.dll
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Gelvoleo\IfElse\bin\Debug\netcoreapp1.1\IfElse.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Gelvoleo\IfElse\obj\Debug\netcoreapp1.1\IfElse.AssemblyInfo.cs
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Gelvoleo\IfElse\obj\Debug\netcoreapp1.1\IfElse.dll
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Gelvoleo\IfElse\obj\Debug\netcoreapp1.1\IfElse.pdb
+D:\LabActivity2_Gelvoleo\IfElse\bin\Debug\netcoreapp1.1\IfElse.deps.json
+D:\LabActivity2_Gelvoleo\IfElse\bin\Debug\netcoreapp1.1\IfElse.runtimeconfig.json
+D:\LabActivity2_Gelvoleo\IfElse\bin\Debug\netcoreapp1.1\IfElse.runtimeconfig.dev.json
+D:\LabActivity2_Gelvoleo\IfElse\bin\Debug\netcoreapp1.1\IfElse.dll
+D:\LabActivity2_Gelvoleo\IfElse\bin\Debug\netcoreapp1.1\IfElse.pdb
+D:\LabActivity2_Gelvoleo\IfElse\obj\Debug\netcoreapp1.1\IfElse.csprojResolveAssemblyReference.cache
+D:\LabActivity2_Gelvoleo\IfElse\obj\Debug\netcoreapp1.1\IfElse.AssemblyInfo.cs
+D:\LabActivity2_Gelvoleo\IfElse\obj\Debug\netcoreapp1.1\IfElse.dll
+D:\LabActivity2_Gelvoleo\IfElse\obj\Debug\netcoreapp1.1\IfElse.pdb
