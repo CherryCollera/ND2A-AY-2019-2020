@@ -1,0 +1,11 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Capuli\ComputeAverage\bin\Debug\ComputeAverage.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Capuli\ComputeAverage\bin\Debug\ComputeAverage.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Capuli\ComputeAverage\bin\Debug\ComputeAverage.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Capuli\ComputeAverage\obj\Debug\ComputeAverage.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Capuli\ComputeAverage\obj\Debug\ComputeAverage.pdb
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\ComputeAverage\bin\Debug\ComputeAverage.exe.config
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\ComputeAverage\bin\Debug\ComputeAverage.exe
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\ComputeAverage\bin\Debug\ComputeAverage.pdb
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\ComputeAverage\obj\Debug\ComputeAverage.csprojResolveAssemblyReference.cache
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\ComputeAverage\obj\Debug\ComputeAverage.exe
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\ComputeAverage\obj\Debug\ComputeAverage.pdb

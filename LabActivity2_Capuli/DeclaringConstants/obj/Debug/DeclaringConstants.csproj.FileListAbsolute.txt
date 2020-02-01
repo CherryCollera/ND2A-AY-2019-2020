@@ -1,0 +1,17 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Capuli\DeclaringConstants\bin\Debug\DeclaringConstants.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Capuli\DeclaringConstants\bin\Debug\DeclaringConstants.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Capuli\DeclaringConstants\bin\Debug\DeclaringConstants.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Capuli\DeclaringConstants\obj\Debug\DeclaringConstants.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Capuli\DeclaringConstants\obj\Debug\DeclaringConstants.pdb
+D:\LabActivity2_Capuli\DeclaringConstants\bin\Debug\DeclaringConstants.exe.config
+D:\LabActivity2_Capuli\DeclaringConstants\bin\Debug\DeclaringConstants.exe
+D:\LabActivity2_Capuli\DeclaringConstants\bin\Debug\DeclaringConstants.pdb
+D:\LabActivity2_Capuli\DeclaringConstants\obj\Debug\DeclaringConstants.csprojResolveAssemblyReference.cache
+D:\LabActivity2_Capuli\DeclaringConstants\obj\Debug\DeclaringConstants.exe
+D:\LabActivity2_Capuli\DeclaringConstants\obj\Debug\DeclaringConstants.pdb
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\DeclaringConstants\bin\Debug\DeclaringConstants.exe.config
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\DeclaringConstants\bin\Debug\DeclaringConstants.exe
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\DeclaringConstants\bin\Debug\DeclaringConstants.pdb
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\DeclaringConstants\obj\Debug\DeclaringConstants.csprojResolveAssemblyReference.cache
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\DeclaringConstants\obj\Debug\DeclaringConstants.exe
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\DeclaringConstants\obj\Debug\DeclaringConstants.pdb

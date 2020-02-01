@@ -1,0 +1,12 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Capuli\ComputetheSum\bin\Debug\ComputetheSum.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Capuli\ComputetheSum\bin\Debug\ComputetheSum.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Capuli\ComputetheSum\bin\Debug\ComputetheSum.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Capuli\ComputetheSum\obj\Debug\ComputetheSum.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Capuli\ComputetheSum\obj\Debug\ComputetheSum.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Capuli\ComputetheSum\obj\Debug\ComputetheSum.pdb
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\ComputetheSum\bin\Debug\ComputetheSum.exe.config
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\ComputetheSum\bin\Debug\ComputetheSum.exe
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\ComputetheSum\bin\Debug\ComputetheSum.pdb
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\ComputetheSum\obj\Debug\ComputetheSum.csprojResolveAssemblyReference.cache
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\ComputetheSum\obj\Debug\ComputetheSum.exe
+C:\Users\Julian Kyrene Capuli\Desktop\OOP\LabActivity2_Capuli\ComputetheSum\obj\Debug\ComputetheSum.pdb
