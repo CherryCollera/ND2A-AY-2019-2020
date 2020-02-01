@@ -1,0 +1,5 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Canlong\LabActivity2_Canlong\bin\Debug\LabActivity2_Canlong.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Canlong\LabActivity2_Canlong\bin\Debug\LabActivity2_Canlong.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Canlong\LabActivity2_Canlong\bin\Debug\LabActivity2_Canlong.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Canlong\LabActivity2_Canlong\obj\Debug\LabActivity2_Canlong.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_Canlong\LabActivity2_Canlong\obj\Debug\LabActivity2_Canlong.pdb
