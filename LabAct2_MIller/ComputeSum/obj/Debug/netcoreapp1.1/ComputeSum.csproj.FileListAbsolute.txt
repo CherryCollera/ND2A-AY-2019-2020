@@ -1,0 +1,9 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeSum\bin\Debug\netcoreapp1.1\ComputeSum.deps.json
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeSum\bin\Debug\netcoreapp1.1\ComputeSum.runtimeconfig.json
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeSum\bin\Debug\netcoreapp1.1\ComputeSum.runtimeconfig.dev.json
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeSum\obj\Debug\netcoreapp1.1\ComputeSum.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeSum\obj\Debug\netcoreapp1.1\ComputeSum.AssemblyInfo.cs
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeSum\bin\Debug\netcoreapp1.1\ComputeSum.dll
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeSum\bin\Debug\netcoreapp1.1\ComputeSum.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeSum\obj\Debug\netcoreapp1.1\ComputeSum.dll
+c:\users\plenary\documents\visual studio 2017\Projects\LabAct2_Ituralde\ComputeSum\obj\Debug\netcoreapp1.1\ComputeSum.pdb
