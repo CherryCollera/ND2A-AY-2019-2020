@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_David\computesum\bin\Debug\computesum.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_David\computesum\bin\Debug\computesum.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_David\computesum\bin\Debug\computesum.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_David\computesum\obj\Debug\computesum.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_David\computesum\obj\Debug\computesum.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity2_David\computesum\obj\Debug\computesum.pdb
