@@ -1,0 +1,25 @@
+c:\users\plenary\documents\visual studio 2017\Projects\Lab3_DelaRosa\GradingSystem\bin\Debug\GradingSystem.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\Lab3_DelaRosa\GradingSystem\bin\Debug\GradingSystem.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Lab3_DelaRosa\GradingSystem\bin\Debug\GradingSystem.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\Lab3_DelaRosa\GradingSystem\obj\Debug\GradingSystem.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Lab3_DelaRosa\GradingSystem\obj\Debug\GradingSystem.pdb
+C:\Users\Plenary\Desktop\Lab3_DelaRosa\GradingSystem\bin\Debug\GradingSystem.exe.config
+C:\Users\Plenary\Desktop\Lab3_DelaRosa\GradingSystem\bin\Debug\GradingSystem.exe
+C:\Users\Plenary\Desktop\Lab3_DelaRosa\GradingSystem\bin\Debug\GradingSystem.pdb
+C:\Users\Plenary\Desktop\Lab3_DelaRosa\GradingSystem\obj\Debug\GradingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Plenary\Desktop\Lab3_DelaRosa\GradingSystem\obj\Debug\GradingSystem.exe
+C:\Users\Plenary\Desktop\Lab3_DelaRosa\GradingSystem\obj\Debug\GradingSystem.pdb
+C:\Users\justi\Desktop\LAB_ACT\Lab3_DelaRosa\GradingSystem\bin\Debug\GradingSystem.exe.config
+C:\Users\justi\Desktop\LAB_ACT\Lab3_DelaRosa\GradingSystem\bin\Debug\GradingSystem.exe
+C:\Users\justi\Desktop\LAB_ACT\Lab3_DelaRosa\GradingSystem\bin\Debug\GradingSystem.pdb
+C:\Users\justi\Desktop\LAB_ACT\Lab3_DelaRosa\GradingSystem\obj\Debug\GradingSystem.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\LAB_ACT\Lab3_DelaRosa\GradingSystem\obj\Debug\GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\LAB_ACT\Lab3_DelaRosa\GradingSystem\obj\Debug\GradingSystem.exe
+C:\Users\justi\Desktop\LAB_ACT\Lab3_DelaRosa\GradingSystem\obj\Debug\GradingSystem.pdb
+C:\Users\justi\Desktop\LAB_ACT\Labactivity3_DelaRosa\GradingSystem\bin\Debug\GradingSystem.exe.config
+C:\Users\justi\Desktop\LAB_ACT\Labactivity3_DelaRosa\GradingSystem\bin\Debug\GradingSystem.exe
+C:\Users\justi\Desktop\LAB_ACT\Labactivity3_DelaRosa\GradingSystem\bin\Debug\GradingSystem.pdb
+C:\Users\justi\Desktop\LAB_ACT\Labactivity3_DelaRosa\GradingSystem\obj\Debug\GradingSystem.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\LAB_ACT\Labactivity3_DelaRosa\GradingSystem\obj\Debug\GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\LAB_ACT\Labactivity3_DelaRosa\GradingSystem\obj\Debug\GradingSystem.exe
+C:\Users\justi\Desktop\LAB_ACT\Labactivity3_DelaRosa\GradingSystem\obj\Debug\GradingSystem.pdb
