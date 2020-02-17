@@ -1,0 +1,10 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\Switch\bin\Debug\Switch.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\Switch\bin\Debug\Switch.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\Switch\bin\Debug\Switch.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\Switch\obj\Debug\Switch.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\Switch\obj\Debug\Switch.pdb
+C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\Switch\bin\Debug\Switch.exe.config
+C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\Switch\bin\Debug\Switch.exe
+C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\Switch\bin\Debug\Switch.pdb
+C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\Switch\obj\Debug\Switch.exe
+C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\Switch\obj\Debug\Switch.pdb

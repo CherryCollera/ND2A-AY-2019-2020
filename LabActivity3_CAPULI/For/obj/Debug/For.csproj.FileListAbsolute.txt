@@ -1,0 +1,5 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\For\bin\Debug\For.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\For\bin\Debug\For.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\For\bin\Debug\For.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\For\obj\Debug\For.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\For\obj\Debug\For.pdb

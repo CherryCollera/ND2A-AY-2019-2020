@@ -1,0 +1,17 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\GradingSystem\bin\Debug\GradingSystem.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\GradingSystem\bin\Debug\GradingSystem.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\GradingSystem\bin\Debug\GradingSystem.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\GradingSystem\obj\Debug\GradingSystem.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\GradingSystem\obj\Debug\GradingSystem.pdb
+C:\Users\Plenary\Desktop\LabActivity3_CAPULI\GradingSystem\obj\Debug\GradingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Plenary\Desktop\LabActivity3_CAPULI\GradingSystem\obj\Debug\GradingSystem.exe
+C:\Users\Plenary\Desktop\LabActivity3_CAPULI\GradingSystem\obj\Debug\GradingSystem.pdb
+C:\Users\Plenary\Desktop\LabActivity3_CAPULI\GradingSystem\bin\Debug\GradingSystem.exe.config
+C:\Users\Plenary\Desktop\LabActivity3_CAPULI\GradingSystem\bin\Debug\GradingSystem.exe
+C:\Users\Plenary\Desktop\LabActivity3_CAPULI\GradingSystem\bin\Debug\GradingSystem.pdb
+C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\GradingSystem\bin\Debug\GradingSystem.exe.config
+C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\GradingSystem\bin\Debug\GradingSystem.exe
+C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\GradingSystem\bin\Debug\GradingSystem.pdb
+C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\GradingSystem\obj\Debug\GradingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\GradingSystem\obj\Debug\GradingSystem.exe
+C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\GradingSystem\obj\Debug\GradingSystem.pdb

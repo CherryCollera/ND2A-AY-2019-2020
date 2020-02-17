@@ -1,0 +1,12 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\CompareNames\bin\Debug\CompareNames.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\CompareNames\bin\Debug\CompareNames.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\CompareNames\bin\Debug\CompareNames.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\CompareNames\obj\Debug\CompareNames.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\CompareNames\obj\Debug\CompareNames.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_CAPULI\CompareNames\obj\Debug\CompareNames.pdb
+C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\CompareNames\bin\Debug\CompareNames.exe.config
+C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\CompareNames\bin\Debug\CompareNames.exe
+C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\CompareNames\bin\Debug\CompareNames.pdb
+C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\CompareNames\obj\Debug\CompareNames.csprojResolveAssemblyReference.cache
+C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\CompareNames\obj\Debug\CompareNames.exe
+C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\CompareNames\obj\Debug\CompareNames.pdb
