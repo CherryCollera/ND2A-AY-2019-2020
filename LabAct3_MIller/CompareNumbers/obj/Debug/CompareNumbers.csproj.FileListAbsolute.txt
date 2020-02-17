@@ -1,0 +1,12 @@
+C:\Users\Miller\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Miller\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Miller\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Miller\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Miller\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\justi\Desktop\LabAct3_MIller\CompareNumbers\bin\Debug\ConsoleApp1.exe.config
+C:\Users\justi\Desktop\LabAct3_MIller\CompareNumbers\bin\Debug\ConsoleApp1.exe
+C:\Users\justi\Desktop\LabAct3_MIller\CompareNumbers\bin\Debug\ConsoleApp1.pdb
+C:\Users\justi\Desktop\LabAct3_MIller\CompareNumbers\obj\Debug\CompareNumbers.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\LabAct3_MIller\CompareNumbers\obj\Debug\CompareNumbers.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\LabAct3_MIller\CompareNumbers\obj\Debug\ConsoleApp1.exe
+C:\Users\justi\Desktop\LabAct3_MIller\CompareNumbers\obj\Debug\ConsoleApp1.pdb
