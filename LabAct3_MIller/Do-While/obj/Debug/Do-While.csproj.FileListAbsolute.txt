@@ -1,0 +1,6 @@
+C:\Users\Miller\Documents\Visual Studio 2017\Projects\LabAct3_MIller\Do-While\obj\Debug\Do-While.csprojResolveAssemblyReference.cache
+C:\Users\Miller\Documents\Visual Studio 2017\Projects\LabAct3_MIller\Do-While\bin\Debug\Do-While.exe.config
+C:\Users\Miller\Documents\Visual Studio 2017\Projects\LabAct3_MIller\Do-While\bin\Debug\Do-While.exe
+C:\Users\Miller\Documents\Visual Studio 2017\Projects\LabAct3_MIller\Do-While\bin\Debug\Do-While.pdb
+C:\Users\Miller\Documents\Visual Studio 2017\Projects\LabAct3_MIller\Do-While\obj\Debug\Do-While.exe
+C:\Users\Miller\Documents\Visual Studio 2017\Projects\LabAct3_MIller\Do-While\obj\Debug\Do-While.pdb

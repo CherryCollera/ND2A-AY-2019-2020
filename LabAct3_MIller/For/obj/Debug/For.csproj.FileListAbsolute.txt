@@ -1,0 +1,5 @@
+C:\Users\Miller\Documents\Visual Studio 2017\Projects\LabAct3_MIller\For\bin\Debug\For.exe.config
+C:\Users\Miller\Documents\Visual Studio 2017\Projects\LabAct3_MIller\For\bin\Debug\For.exe
+C:\Users\Miller\Documents\Visual Studio 2017\Projects\LabAct3_MIller\For\bin\Debug\For.pdb
+C:\Users\Miller\Documents\Visual Studio 2017\Projects\LabAct3_MIller\For\obj\Debug\For.exe
+C:\Users\Miller\Documents\Visual Studio 2017\Projects\LabAct3_MIller\For\obj\Debug\For.pdb
