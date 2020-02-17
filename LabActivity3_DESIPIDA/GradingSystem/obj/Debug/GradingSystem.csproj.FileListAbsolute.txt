@@ -1,0 +1,17 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_DESIPIDA\GradingSystem\bin\Debug\GradingSystem.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_DESIPIDA\GradingSystem\bin\Debug\GradingSystem.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_DESIPIDA\GradingSystem\bin\Debug\GradingSystem.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_DESIPIDA\GradingSystem\obj\Debug\GradingSystem.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_DESIPIDA\GradingSystem\obj\Debug\GradingSystem.pdb
+C:\Users\Asus\OneDrive\Desktop\OOP\LabActivity3_DESIPIDA\GradingSystem\obj\Debug\GradingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\OOP\LabActivity3_DESIPIDA\GradingSystem\obj\Debug\GradingSystem.exe
+C:\Users\Asus\OneDrive\Desktop\OOP\LabActivity3_DESIPIDA\GradingSystem\obj\Debug\GradingSystem.pdb
+C:\Users\Asus\OneDrive\Desktop\OOP\LabActivity3_DESIPIDA\GradingSystem\bin\Debug\GradingSystem.exe.config
+C:\Users\Asus\OneDrive\Desktop\OOP\LabActivity3_DESIPIDA\GradingSystem\bin\Debug\GradingSystem.exe
+C:\Users\Asus\OneDrive\Desktop\OOP\LabActivity3_DESIPIDA\GradingSystem\bin\Debug\GradingSystem.pdb
+D:\LabActivity3_DESIPIDA\GradingSystem\bin\Debug\GradingSystem.exe.config
+D:\LabActivity3_DESIPIDA\GradingSystem\bin\Debug\GradingSystem.exe
+D:\LabActivity3_DESIPIDA\GradingSystem\bin\Debug\GradingSystem.pdb
+D:\LabActivity3_DESIPIDA\GradingSystem\obj\Debug\GradingSystem.csprojResolveAssemblyReference.cache
+D:\LabActivity3_DESIPIDA\GradingSystem\obj\Debug\GradingSystem.exe
+D:\LabActivity3_DESIPIDA\GradingSystem\obj\Debug\GradingSystem.pdb
