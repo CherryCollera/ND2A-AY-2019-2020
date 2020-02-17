@@ -1,0 +1,18 @@
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_CANLONG\GradingSystem\bin\Debug\GradingSystem.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_CANLONG\GradingSystem\bin\Debug\GradingSystem.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_CANLONG\GradingSystem\bin\Debug\GradingSystem.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_CANLONG\GradingSystem\obj\Debug\GradingSystem.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_CANLONG\GradingSystem\obj\Debug\GradingSystem.pdb
+C:\Users\Plenary\Documents\Visual Studio 2017\Projects\Lab_Activity3_CANLONG\GradingSystem\obj\Debug\GradingSystem.csprojResolveAssemblyReference.cache
+F:\OOP PROGRAMS\Lab_Activity3_CANLONG\GradingSystem\bin\Debug\GradingSystem.exe.config
+F:\OOP PROGRAMS\Lab_Activity3_CANLONG\GradingSystem\bin\Debug\GradingSystem.exe
+F:\OOP PROGRAMS\Lab_Activity3_CANLONG\GradingSystem\bin\Debug\GradingSystem.pdb
+F:\OOP PROGRAMS\Lab_Activity3_CANLONG\GradingSystem\obj\Debug\GradingSystem.csprojResolveAssemblyReference.cache
+F:\OOP PROGRAMS\Lab_Activity3_CANLONG\GradingSystem\obj\Debug\GradingSystem.exe
+F:\OOP PROGRAMS\Lab_Activity3_CANLONG\GradingSystem\obj\Debug\GradingSystem.pdb
+D:\Catherine\Documents\LABS\OOP PROGRAMS\Lab_Activity3_CANLONG\GradingSystem\bin\Debug\GradingSystem.exe.config
+D:\Catherine\Documents\LABS\OOP PROGRAMS\Lab_Activity3_CANLONG\GradingSystem\bin\Debug\GradingSystem.exe
+D:\Catherine\Documents\LABS\OOP PROGRAMS\Lab_Activity3_CANLONG\GradingSystem\bin\Debug\GradingSystem.pdb
+D:\Catherine\Documents\LABS\OOP PROGRAMS\Lab_Activity3_CANLONG\GradingSystem\obj\Debug\GradingSystem.csprojResolveAssemblyReference.cache
+D:\Catherine\Documents\LABS\OOP PROGRAMS\Lab_Activity3_CANLONG\GradingSystem\obj\Debug\GradingSystem.exe
+D:\Catherine\Documents\LABS\OOP PROGRAMS\Lab_Activity3_CANLONG\GradingSystem\obj\Debug\GradingSystem.pdb
