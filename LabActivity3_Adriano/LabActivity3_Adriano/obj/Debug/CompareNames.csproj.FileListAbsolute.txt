@@ -4,3 +4,10 @@ c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Adriano\LabA
 c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Adriano\LabActivity3_Adriano\obj\Debug\CompareNames.csprojResolveAssemblyReference.cache
 c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Adriano\LabActivity3_Adriano\obj\Debug\LabActivity3_Adriano.exe
 c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Adriano\LabActivity3_Adriano\obj\Debug\LabActivity3_Adriano.pdb
+C:\Users\justi\OneDrive\Documents\GitHub\ND2A-AY-2019-2020\LabActivity3_Adriano\LabActivity3_Adriano\bin\Debug\LabActivity3_Adriano.exe.config
+C:\Users\justi\OneDrive\Documents\GitHub\ND2A-AY-2019-2020\LabActivity3_Adriano\LabActivity3_Adriano\bin\Debug\LabActivity3_Adriano.exe
+C:\Users\justi\OneDrive\Documents\GitHub\ND2A-AY-2019-2020\LabActivity3_Adriano\LabActivity3_Adriano\bin\Debug\LabActivity3_Adriano.pdb
+C:\Users\justi\OneDrive\Documents\GitHub\ND2A-AY-2019-2020\LabActivity3_Adriano\LabActivity3_Adriano\obj\Debug\CompareNames.csprojAssemblyReference.cache
+C:\Users\justi\OneDrive\Documents\GitHub\ND2A-AY-2019-2020\LabActivity3_Adriano\LabActivity3_Adriano\obj\Debug\CompareNames.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Documents\GitHub\ND2A-AY-2019-2020\LabActivity3_Adriano\LabActivity3_Adriano\obj\Debug\LabActivity3_Adriano.exe
+C:\Users\justi\OneDrive\Documents\GitHub\ND2A-AY-2019-2020\LabActivity3_Adriano\LabActivity3_Adriano\obj\Debug\LabActivity3_Adriano.pdb
