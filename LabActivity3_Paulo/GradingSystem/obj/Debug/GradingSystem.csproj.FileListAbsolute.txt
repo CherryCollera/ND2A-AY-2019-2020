@@ -1,6 +1,0 @@
-c:\users\miller\documents\visual studio 2017\Projects\LabAct3_Adriano\GradingSystem\bin\Debug\GradingSystem.exe.config
-c:\users\miller\documents\visual studio 2017\Projects\LabAct3_Adriano\GradingSystem\bin\Debug\GradingSystem.exe
-c:\users\miller\documents\visual studio 2017\Projects\LabAct3_Adriano\GradingSystem\bin\Debug\GradingSystem.pdb
-c:\users\miller\documents\visual studio 2017\Projects\LabAct3_Adriano\GradingSystem\obj\Debug\GradingSystem.csprojResolveAssemblyReference.cache
-c:\users\miller\documents\visual studio 2017\Projects\LabAct3_Adriano\GradingSystem\obj\Debug\GradingSystem.exe
-c:\users\miller\documents\visual studio 2017\Projects\LabAct3_Adriano\GradingSystem\obj\Debug\GradingSystem.pdb
