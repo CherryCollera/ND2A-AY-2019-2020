@@ -33,7 +33,7 @@ namespace LabActivity3_Agomaa
             Console.WriteLine("Using CompareTo() method");
             Console.WriteLine("   compare {0} to {1}: {2}", string1, string2, string1.CompareTo(string2));
             Console.WriteLine("   compare {0} to {1}: {2}", string1, string3, string1.CompareTo(string3));
-            Console.WriteLine("   compare {0} to {1}: {2}", string3, string1, string1.CompareTo(string1));
+            Console.WriteLine("   compare {0} to {1}: {2}", string3, string1, string3.CompareTo(string1));
 
             Console.ReadKey();
 
