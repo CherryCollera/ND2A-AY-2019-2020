@@ -1,0 +1,5 @@
+c:\users\miller\documents\visual studio 2017\Projects\LabAct3_Adriano\CompareNumber\bin\Debug\CompareNumber.exe.config
+c:\users\miller\documents\visual studio 2017\Projects\LabAct3_Adriano\CompareNumber\bin\Debug\CompareNumber.exe
+c:\users\miller\documents\visual studio 2017\Projects\LabAct3_Adriano\CompareNumber\bin\Debug\CompareNumber.pdb
+c:\users\miller\documents\visual studio 2017\Projects\LabAct3_Adriano\CompareNumber\obj\Debug\CompareNumber.exe
+c:\users\miller\documents\visual studio 2017\Projects\LabAct3_Adriano\CompareNumber\obj\Debug\CompareNumber.pdb
