@@ -1,5 +1,0 @@
-c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Valerio\While\bin\Debug\While.exe.config
-c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Valerio\While\bin\Debug\While.exe
-c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Valerio\While\bin\Debug\While.pdb
-c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Valerio\While\obj\Debug\While.exe
-c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Valerio\While\obj\Debug\While.pdb

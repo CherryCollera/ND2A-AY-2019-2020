@@ -1,6 +1,0 @@
-c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Valerio\Switch\bin\Debug\Switch.exe.config
-c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Valerio\Switch\bin\Debug\Switch.exe
-c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Valerio\Switch\bin\Debug\Switch.pdb
-c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Valerio\Switch\obj\Debug\Switch.csprojResolveAssemblyReference.cache
-c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Valerio\Switch\obj\Debug\Switch.exe
-c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Valerio\Switch\obj\Debug\Switch.pdb
