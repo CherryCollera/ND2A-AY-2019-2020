@@ -1,7 +1,0 @@
-C:\Users\justi\Desktop\LabActivity3_Salas\CompareNames\bin\Debug\CompareNumbers.exe.config
-C:\Users\justi\Desktop\LabActivity3_Salas\CompareNames\bin\Debug\CompareNumbers.exe
-C:\Users\justi\Desktop\LabActivity3_Salas\CompareNames\bin\Debug\CompareNumbers.pdb
-C:\Users\justi\Desktop\LabActivity3_Salas\CompareNames\obj\Debug\CompareNames.csprojAssemblyReference.cache
-C:\Users\justi\Desktop\LabActivity3_Salas\CompareNames\obj\Debug\CompareNames.csproj.CoreCompileInputs.cache
-C:\Users\justi\Desktop\LabActivity3_Salas\CompareNames\obj\Debug\CompareNumbers.exe
-C:\Users\justi\Desktop\LabActivity3_Salas\CompareNames\obj\Debug\CompareNumbers.pdb
