@@ -1,7 +1,0 @@
-C:\Users\justi\Desktop\LabActivity3_Paulo\comparenumber\bin\Debug\comparenumber.exe.config
-C:\Users\justi\Desktop\LabActivity3_Paulo\comparenumber\bin\Debug\comparenumber.exe
-C:\Users\justi\Desktop\LabActivity3_Paulo\comparenumber\bin\Debug\comparenumber.pdb
-C:\Users\justi\Desktop\LabActivity3_Paulo\comparenumber\obj\Debug\comparenumber.csprojAssemblyReference.cache
-C:\Users\justi\Desktop\LabActivity3_Paulo\comparenumber\obj\Debug\comparenumber.csproj.CoreCompileInputs.cache
-C:\Users\justi\Desktop\LabActivity3_Paulo\comparenumber\obj\Debug\comparenumber.exe
-C:\Users\justi\Desktop\LabActivity3_Paulo\comparenumber\obj\Debug\comparenumber.pdb

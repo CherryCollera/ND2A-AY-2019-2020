@@ -1,5 +1,0 @@
-c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Adriano\Do-while\bin\Debug\Do-while.exe.config
-c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Adriano\Do-while\bin\Debug\Do-while.exe
-c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Adriano\Do-while\bin\Debug\Do-while.pdb
-c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Adriano\Do-while\obj\Debug\Do-while.exe
-c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Adriano\Do-while\obj\Debug\Do-while.pdb
