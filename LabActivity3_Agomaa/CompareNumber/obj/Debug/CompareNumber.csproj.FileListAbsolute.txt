@@ -1,0 +1,6 @@
+C:\Users\justi\Desktop\LabActivity3_Agomaa\CompareNumber\bin\Debug\CompareNumber.exe.config
+C:\Users\justi\Desktop\LabActivity3_Agomaa\CompareNumber\bin\Debug\CompareNumber.exe
+C:\Users\justi\Desktop\LabActivity3_Agomaa\CompareNumber\bin\Debug\CompareNumber.pdb
+C:\Users\justi\Desktop\LabActivity3_Agomaa\CompareNumber\obj\Debug\CompareNumber.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\LabActivity3_Agomaa\CompareNumber\obj\Debug\CompareNumber.exe
+C:\Users\justi\Desktop\LabActivity3_Agomaa\CompareNumber\obj\Debug\CompareNumber.pdb
