@@ -1,0 +1,18 @@
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_Caguimbal\GradingSystem\bin\Debug\GradingSystem.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_Caguimbal\GradingSystem\bin\Debug\GradingSystem.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_Caguimbal\GradingSystem\bin\Debug\GradingSystem.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_Caguimbal\GradingSystem\obj\Debug\GradingSystem.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_Caguimbal\GradingSystem\obj\Debug\GradingSystem.pdb
+C:\Users\Plenary\Documents\Visual Studio 2017\Projects\Lab_Activity3_Caguimbal\GradingSystem\obj\Debug\GradingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Plenary\Desktop\Lab_Activity3_Caguimbal\GradingSystem\bin\Debug\GradingSystem.exe.config
+C:\Users\Plenary\Desktop\Lab_Activity3_Caguimbal\GradingSystem\bin\Debug\GradingSystem.exe
+C:\Users\Plenary\Desktop\Lab_Activity3_Caguimbal\GradingSystem\bin\Debug\GradingSystem.pdb
+C:\Users\Plenary\Desktop\Lab_Activity3_Caguimbal\GradingSystem\obj\Debug\GradingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Plenary\Desktop\Lab_Activity3_Caguimbal\GradingSystem\obj\Debug\GradingSystem.exe
+C:\Users\Plenary\Desktop\Lab_Activity3_Caguimbal\GradingSystem\obj\Debug\GradingSystem.pdb
+C:\Users\Asus\OneDrive\Desktop\02-13-20 OOP\Lab_Activity3_Caguimbal\GradingSystem\bin\Debug\GradingSystem.exe.config
+C:\Users\Asus\OneDrive\Desktop\02-13-20 OOP\Lab_Activity3_Caguimbal\GradingSystem\bin\Debug\GradingSystem.exe
+C:\Users\Asus\OneDrive\Desktop\02-13-20 OOP\Lab_Activity3_Caguimbal\GradingSystem\bin\Debug\GradingSystem.pdb
+C:\Users\Asus\OneDrive\Desktop\02-13-20 OOP\Lab_Activity3_Caguimbal\GradingSystem\obj\Debug\GradingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\02-13-20 OOP\Lab_Activity3_Caguimbal\GradingSystem\obj\Debug\GradingSystem.exe
+C:\Users\Asus\OneDrive\Desktop\02-13-20 OOP\Lab_Activity3_Caguimbal\GradingSystem\obj\Debug\GradingSystem.pdb
