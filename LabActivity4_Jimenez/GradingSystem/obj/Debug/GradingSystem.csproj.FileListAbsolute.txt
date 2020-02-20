@@ -1,0 +1,6 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity03_Jimenez\GradingSystem\bin\Debug\GradingSystem.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity03_Jimenez\GradingSystem\bin\Debug\GradingSystem.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity03_Jimenez\GradingSystem\bin\Debug\GradingSystem.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity03_Jimenez\GradingSystem\obj\Debug\GradingSystem.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity03_Jimenez\GradingSystem\obj\Debug\GradingSystem.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity03_Jimenez\GradingSystem\obj\Debug\GradingSystem.pdb
