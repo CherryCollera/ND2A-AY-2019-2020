@@ -1,0 +1,4 @@
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\ClassExample1_Ver2\bin\Debug\ClassExample1_Ver2.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\ClassExample1_Ver2\bin\Debug\ClassExample1_Ver2.pdb
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\ClassExample1_Ver2\obj\Debug\ClassExample1_Ver2.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\ClassExample1_Ver2\obj\Debug\ClassExample1_Ver2.pdb

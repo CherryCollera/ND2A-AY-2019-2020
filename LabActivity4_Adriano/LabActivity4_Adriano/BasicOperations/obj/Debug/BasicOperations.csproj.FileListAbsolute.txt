@@ -1,0 +1,5 @@
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\BasicOperations\bin\Debug\BasicOperations.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\BasicOperations\bin\Debug\BasicOperations.pdb
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\BasicOperations\obj\Debug\BasicOperations.csprojResolveAssemblyReference.cache
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\BasicOperations\obj\Debug\BasicOperations.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\BasicOperations\obj\Debug\BasicOperations.pdb
