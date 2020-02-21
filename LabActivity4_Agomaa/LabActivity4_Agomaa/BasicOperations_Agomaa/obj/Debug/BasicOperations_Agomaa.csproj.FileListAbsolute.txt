@@ -1,0 +1,6 @@
+C:\Users\justi\source\repos\LabActivity4_Agomaa\BasicOperations_Agomaa\obj\Debug\BasicOperations_Agomaa.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\LabActivity4_Agomaa\BasicOperations_Agomaa\bin\Debug\BasicOperations_Agomaa.exe.config
+C:\Users\justi\source\repos\LabActivity4_Agomaa\BasicOperations_Agomaa\bin\Debug\BasicOperations_Agomaa.exe
+C:\Users\justi\source\repos\LabActivity4_Agomaa\BasicOperations_Agomaa\bin\Debug\BasicOperations_Agomaa.pdb
+C:\Users\justi\source\repos\LabActivity4_Agomaa\BasicOperations_Agomaa\obj\Debug\BasicOperations_Agomaa.exe
+C:\Users\justi\source\repos\LabActivity4_Agomaa\BasicOperations_Agomaa\obj\Debug\BasicOperations_Agomaa.pdb
