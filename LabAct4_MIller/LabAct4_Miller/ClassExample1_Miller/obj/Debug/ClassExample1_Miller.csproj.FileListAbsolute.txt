@@ -1,0 +1,6 @@
+c:\users\miller\documents\visual studio 2017\Projects\LabAct4_Miller\ClassExample1_Miller\bin\Debug\ClassExample1_Miller.exe.config
+c:\users\miller\documents\visual studio 2017\Projects\LabAct4_Miller\ClassExample1_Miller\bin\Debug\ClassExample1_Miller.exe
+c:\users\miller\documents\visual studio 2017\Projects\LabAct4_Miller\ClassExample1_Miller\bin\Debug\ClassExample1_Miller.pdb
+c:\users\miller\documents\visual studio 2017\Projects\LabAct4_Miller\ClassExample1_Miller\obj\Debug\ClassExample1_Miller.csprojResolveAssemblyReference.cache
+c:\users\miller\documents\visual studio 2017\Projects\LabAct4_Miller\ClassExample1_Miller\obj\Debug\ClassExample1_Miller.exe
+c:\users\miller\documents\visual studio 2017\Projects\LabAct4_Miller\ClassExample1_Miller\obj\Debug\ClassExample1_Miller.pdb

@@ -1,0 +1,12 @@
+c:\users\miller\documents\visual studio 2017\Projects\BasicOperations_Miller\UsingClasses2_MIller\bin\Debug\UsingClasses2_MIller.exe.config
+c:\users\miller\documents\visual studio 2017\Projects\BasicOperations_Miller\UsingClasses2_MIller\bin\Debug\UsingClasses2_MIller.exe
+c:\users\miller\documents\visual studio 2017\Projects\BasicOperations_Miller\UsingClasses2_MIller\bin\Debug\UsingClasses2_MIller.pdb
+c:\users\miller\documents\visual studio 2017\Projects\BasicOperations_Miller\UsingClasses2_MIller\obj\Debug\UsingClasses2_MIller.csprojResolveAssemblyReference.cache
+c:\users\miller\documents\visual studio 2017\Projects\BasicOperations_Miller\UsingClasses2_MIller\obj\Debug\UsingClasses2_MIller.exe
+c:\users\miller\documents\visual studio 2017\Projects\BasicOperations_Miller\UsingClasses2_MIller\obj\Debug\UsingClasses2_MIller.pdb
+C:\Users\Miller\documents\visual studio 2017\Projects\LabAct4_Miller\BasicOperations_Miller\UsingClasses2_MIller\bin\Debug\UsingClasses2_MIller.exe.config
+C:\Users\Miller\documents\visual studio 2017\Projects\LabAct4_Miller\BasicOperations_Miller\UsingClasses2_MIller\bin\Debug\UsingClasses2_MIller.exe
+C:\Users\Miller\documents\visual studio 2017\Projects\LabAct4_Miller\BasicOperations_Miller\UsingClasses2_MIller\bin\Debug\UsingClasses2_MIller.pdb
+C:\Users\Miller\documents\visual studio 2017\Projects\LabAct4_Miller\BasicOperations_Miller\UsingClasses2_MIller\obj\Debug\UsingClasses2_MIller.csprojResolveAssemblyReference.cache
+C:\Users\Miller\documents\visual studio 2017\Projects\LabAct4_Miller\BasicOperations_Miller\UsingClasses2_MIller\obj\Debug\UsingClasses2_MIller.exe
+C:\Users\Miller\documents\visual studio 2017\Projects\LabAct4_Miller\BasicOperations_Miller\UsingClasses2_MIller\obj\Debug\UsingClasses2_MIller.pdb
