@@ -1,0 +1,14 @@
+C:\Users\justi\Desktop\LabActivity4_DelaRosa\BasicOperations_Delarosa\obj\Debug\BasicOperations_Delarosa.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\LabActivity4_DelaRosa\BasicOperations_Delarosa\obj\Debug\BasicOperations_Delarosa.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\LabActivity4_DelaRosa\BasicOperations_Delarosa\bin\Debug\BasicOperations_Delarosa.exe.config
+C:\Users\justi\Desktop\LabActivity4_DelaRosa\BasicOperations_Delarosa\bin\Debug\BasicOperations_Delarosa.exe
+C:\Users\justi\Desktop\LabActivity4_DelaRosa\BasicOperations_Delarosa\bin\Debug\BasicOperations_Delarosa.pdb
+C:\Users\justi\Desktop\LabActivity4_DelaRosa\BasicOperations_Delarosa\obj\Debug\BasicOperations_Delarosa.exe
+C:\Users\justi\Desktop\LabActivity4_DelaRosa\BasicOperations_Delarosa\obj\Debug\BasicOperations_Delarosa.pdb
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\BasicOperations_Delarosa\obj\Debug\BasicOperations_Delarosa.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\BasicOperations_Delarosa\obj\Debug\BasicOperations_Delarosa.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\BasicOperations_Delarosa\obj\Debug\BasicOperations_Delarosa.exe
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\BasicOperations_Delarosa\obj\Debug\BasicOperations_Delarosa.pdb
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\BasicOperations_Delarosa\bin\Debug\BasicOperations_Delarosa.exe.config
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\BasicOperations_Delarosa\bin\Debug\BasicOperations_Delarosa.exe
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\BasicOperations_Delarosa\bin\Debug\BasicOperations_Delarosa.pdb
