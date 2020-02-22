@@ -1,0 +1,7 @@
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexmaple1_Agomaa\bin\Debug\Classexmaple1_Agomaa.exe.config
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexmaple1_Agomaa\bin\Debug\Classexmaple1_Agomaa.exe
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexmaple1_Agomaa\bin\Debug\Classexmaple1_Agomaa.pdb
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexmaple1_Agomaa\obj\Debug\Classexmaple1_Agomaa.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexmaple1_Agomaa\obj\Debug\Classexmaple1_Agomaa.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexmaple1_Agomaa\obj\Debug\Classexmaple1_Agomaa.exe
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexmaple1_Agomaa\obj\Debug\Classexmaple1_Agomaa.pdb

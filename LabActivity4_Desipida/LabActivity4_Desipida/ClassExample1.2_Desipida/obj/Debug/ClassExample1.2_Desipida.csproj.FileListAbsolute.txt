@@ -1,0 +1,6 @@
+C:\Users\Asus\OneDrive\Desktop\OOP\LabActivity4_Desipida\ClassExample1.2_Desipida\bin\Debug\ClassExample1.2_Desipida.exe.config
+C:\Users\Asus\OneDrive\Desktop\OOP\LabActivity4_Desipida\ClassExample1.2_Desipida\bin\Debug\ClassExample1.2_Desipida.exe
+C:\Users\Asus\OneDrive\Desktop\OOP\LabActivity4_Desipida\ClassExample1.2_Desipida\bin\Debug\ClassExample1.2_Desipida.pdb
+C:\Users\Asus\OneDrive\Desktop\OOP\LabActivity4_Desipida\ClassExample1.2_Desipida\obj\Debug\ClassExample1.2_Desipida.csprojResolveAssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\OOP\LabActivity4_Desipida\ClassExample1.2_Desipida\obj\Debug\ClassExample1.2_Desipida.exe
+C:\Users\Asus\OneDrive\Desktop\OOP\LabActivity4_Desipida\ClassExample1.2_Desipida\obj\Debug\ClassExample1.2_Desipida.pdb

@@ -1,0 +1,5 @@
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_Caguimbal\DoWhile\bin\Debug\DoWhile.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_Caguimbal\DoWhile\bin\Debug\DoWhile.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_Caguimbal\DoWhile\bin\Debug\DoWhile.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_Caguimbal\DoWhile\obj\Debug\DoWhile.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_Caguimbal\DoWhile\obj\Debug\DoWhile.pdb

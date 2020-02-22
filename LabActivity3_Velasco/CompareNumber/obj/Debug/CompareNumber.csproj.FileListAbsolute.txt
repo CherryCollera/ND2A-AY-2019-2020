@@ -1,0 +1,18 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Velasco\CompareNumber\obj\Debug\CompareNumber.csprojResolveAssemblyReference.cache
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Velasco\CompareNumber\bin\Debug\CompareNumber.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Velasco\CompareNumber\bin\Debug\CompareNumber.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Velasco\CompareNumber\bin\Debug\CompareNumber.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Velasco\CompareNumber\obj\Debug\CompareNumber.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity3_Velasco\CompareNumber\obj\Debug\CompareNumber.pdb
+C:\Users\Plenary\Desktop\LabActivity3_Velasco\CompareNumber\bin\Debug\CompareNumber.exe.config
+C:\Users\Plenary\Desktop\LabActivity3_Velasco\CompareNumber\bin\Debug\CompareNumber.exe
+C:\Users\Plenary\Desktop\LabActivity3_Velasco\CompareNumber\bin\Debug\CompareNumber.pdb
+C:\Users\Plenary\Desktop\LabActivity3_Velasco\CompareNumber\obj\Debug\CompareNumber.csprojResolveAssemblyReference.cache
+C:\Users\Plenary\Desktop\LabActivity3_Velasco\CompareNumber\obj\Debug\CompareNumber.exe
+C:\Users\Plenary\Desktop\LabActivity3_Velasco\CompareNumber\obj\Debug\CompareNumber.pdb
+D:\LabActivity3_Velasco\CompareNumber\bin\Debug\CompareNumber.exe.config
+D:\LabActivity3_Velasco\CompareNumber\bin\Debug\CompareNumber.exe
+D:\LabActivity3_Velasco\CompareNumber\bin\Debug\CompareNumber.pdb
+D:\LabActivity3_Velasco\CompareNumber\obj\Debug\CompareNumber.csprojResolveAssemblyReference.cache
+D:\LabActivity3_Velasco\CompareNumber\obj\Debug\CompareNumber.exe
+D:\LabActivity3_Velasco\CompareNumber\obj\Debug\CompareNumber.pdb

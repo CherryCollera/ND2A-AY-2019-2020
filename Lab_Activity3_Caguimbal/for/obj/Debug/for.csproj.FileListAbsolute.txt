@@ -1,0 +1,5 @@
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_Caguimbal\for\bin\Debug\@for.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_Caguimbal\for\bin\Debug\@for.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_Caguimbal\for\bin\Debug\@for.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_Caguimbal\for\obj\Debug\@for.exe
+c:\users\plenary\documents\visual studio 2017\Projects\Lab_Activity3_Caguimbal\for\obj\Debug\@for.pdb

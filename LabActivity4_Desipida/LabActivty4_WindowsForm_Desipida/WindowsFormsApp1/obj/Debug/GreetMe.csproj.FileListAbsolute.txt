@@ -1,0 +1,12 @@
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivty4_WindowsForm_Desipida\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivty4_WindowsForm_Desipida\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivty4_WindowsForm_Desipida\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivty4_WindowsForm_Desipida\WindowsFormsApp1\obj\Debug\GreetMe.csprojResolveAssemblyReference.cache
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivty4_WindowsForm_Desipida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivty4_WindowsForm_Desipida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivty4_WindowsForm_Desipida\WindowsFormsApp1\obj\Debug\GreetMe.csproj.GenerateResource.Cache
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivty4_WindowsForm_Desipida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivty4_WindowsForm_Desipida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivty4_WindowsForm_Desipida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivty4_WindowsForm_Desipida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivty4_WindowsForm_Desipida\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
