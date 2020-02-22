@@ -1,0 +1,5 @@
+C:\Users\Julian Kyrene Capuli\documents\visual studio 2017\Projects\LabActivity4_Capuli\LabActivity4_Capuli\bin\Debug\LabActivity4_Capuli.exe.config
+C:\Users\Julian Kyrene Capuli\documents\visual studio 2017\Projects\LabActivity4_Capuli\LabActivity4_Capuli\bin\Debug\LabActivity4_Capuli.exe
+C:\Users\Julian Kyrene Capuli\documents\visual studio 2017\Projects\LabActivity4_Capuli\LabActivity4_Capuli\bin\Debug\LabActivity4_Capuli.pdb
+C:\Users\Julian Kyrene Capuli\documents\visual studio 2017\Projects\LabActivity4_Capuli\LabActivity4_Capuli\obj\Debug\LabActivity4_Capuli.exe
+C:\Users\Julian Kyrene Capuli\documents\visual studio 2017\Projects\LabActivity4_Capuli\LabActivity4_Capuli\obj\Debug\LabActivity4_Capuli.pdb
