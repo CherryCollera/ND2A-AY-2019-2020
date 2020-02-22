@@ -1,0 +1,4 @@
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\ClassExample2_Adriano\bin\Debug\ClassExample2_Adriano.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\ClassExample2_Adriano\bin\Debug\ClassExample2_Adriano.pdb
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\ClassExample2_Adriano\obj\Debug\ClassExample2_Adriano.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\ClassExample2_Adriano\obj\Debug\ClassExample2_Adriano.pdb

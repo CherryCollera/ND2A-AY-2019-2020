@@ -1,0 +1,5 @@
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\ClassExample1_Adriano\bin\Debug\ClassExample1_Adriano.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\ClassExample1_Adriano\bin\Debug\ClassExample1_Adriano.pdb
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\ClassExample1_Adriano\obj\Debug\ClassExample1_Adriano.csprojResolveAssemblyReference.cache
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\ClassExample1_Adriano\obj\Debug\ClassExample1_Adriano.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Adriano\ClassExample1_Adriano\obj\Debug\ClassExample1_Adriano.pdb

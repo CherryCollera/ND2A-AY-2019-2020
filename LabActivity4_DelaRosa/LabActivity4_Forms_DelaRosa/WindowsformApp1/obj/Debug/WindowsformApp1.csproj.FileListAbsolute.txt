@@ -1,0 +1,10 @@
+C:\Users\justi\source\repos\LabActivity4_DelaRosa\WindowsformApp1\bin\Debug\WindowsformApp1.exe.config
+C:\Users\justi\source\repos\LabActivity4_DelaRosa\WindowsformApp1\bin\Debug\WindowsformApp1.exe
+C:\Users\justi\source\repos\LabActivity4_DelaRosa\WindowsformApp1\bin\Debug\WindowsformApp1.pdb
+C:\Users\justi\source\repos\LabActivity4_DelaRosa\WindowsformApp1\obj\Debug\WindowsformApp1.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\LabActivity4_DelaRosa\WindowsformApp1\obj\Debug\WindowsformApp1.Form1.resources
+C:\Users\justi\source\repos\LabActivity4_DelaRosa\WindowsformApp1\obj\Debug\WindowsformApp1.Properties.Resources.resources
+C:\Users\justi\source\repos\LabActivity4_DelaRosa\WindowsformApp1\obj\Debug\WindowsformApp1.csproj.GenerateResource.cache
+C:\Users\justi\source\repos\LabActivity4_DelaRosa\WindowsformApp1\obj\Debug\WindowsformApp1.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\LabActivity4_DelaRosa\WindowsformApp1\obj\Debug\WindowsformApp1.exe
+C:\Users\justi\source\repos\LabActivity4_DelaRosa\WindowsformApp1\obj\Debug\WindowsformApp1.pdb

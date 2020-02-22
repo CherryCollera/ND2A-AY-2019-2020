@@ -1,0 +1,5 @@
+c:\users\miller\documents\visual studio 2017\Projects\LabAct4_Miller\Class_Miller\bin\Debug\Class_Miller.exe.config
+c:\users\miller\documents\visual studio 2017\Projects\LabAct4_Miller\Class_Miller\bin\Debug\Class_Miller.exe
+c:\users\miller\documents\visual studio 2017\Projects\LabAct4_Miller\Class_Miller\bin\Debug\Class_Miller.pdb
+c:\users\miller\documents\visual studio 2017\Projects\LabAct4_Miller\Class_Miller\obj\Debug\Class_Miller.exe
+c:\users\miller\documents\visual studio 2017\Projects\LabAct4_Miller\Class_Miller\obj\Debug\Class_Miller.pdb

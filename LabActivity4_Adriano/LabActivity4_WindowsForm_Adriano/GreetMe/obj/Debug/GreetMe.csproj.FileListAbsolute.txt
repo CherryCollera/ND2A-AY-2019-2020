@@ -1,0 +1,12 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_WindowsForm_Adriano\GreetMe\bin\Debug\GreetMe.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_WindowsForm_Adriano\GreetMe\bin\Debug\GreetMe.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_WindowsForm_Adriano\GreetMe\bin\Debug\GreetMe.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_WindowsForm_Adriano\GreetMe\obj\Debug\GreetMe.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_WindowsForm_Adriano\GreetMe\obj\Debug\GreetMe.Form1.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_WindowsForm_Adriano\GreetMe\obj\Debug\GreetMe.Properties.Resources.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_WindowsForm_Adriano\GreetMe\obj\Debug\GreetMe.csproj.GenerateResource.Cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_WindowsForm_Adriano\GreetMe\obj\Debug\GreetMe.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_WindowsForm_Adriano\GreetMe\obj\Debug\GreetMe.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_WindowsForm_Adriano\GreetMe\obj\Debug\GreetMe.Form2.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_WindowsForm_Adriano\GreetMe\obj\Debug\GreetMe.Form3.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_WindowsForm_Adriano\GreetMe\obj\Debug\GreetMe.Form4.resources

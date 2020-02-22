@@ -1,0 +1,7 @@
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexample2v2\bin\Debug\Classexample2v2.exe.config
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexample2v2\bin\Debug\Classexample2v2.exe
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexample2v2\bin\Debug\Classexample2v2.pdb
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexample2v2\obj\Debug\Classexample2v2.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexample2v2\obj\Debug\Classexample2v2.exe
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexample2v2\obj\Debug\Classexample2v2.pdb
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexample2v2\obj\Debug\Classexample2v2.csprojAssemblyReference.cache

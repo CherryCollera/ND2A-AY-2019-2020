@@ -1,0 +1,5 @@
+C:\Users\Miller\documents\visual studio 2017\Projects\LabAct4_Miller\UsingClasses2_MIllerV2\bin\Debug\UsingClasses2_MIllerV2.exe.config
+C:\Users\Miller\documents\visual studio 2017\Projects\LabAct4_Miller\UsingClasses2_MIllerV2\bin\Debug\UsingClasses2_MIllerV2.exe
+C:\Users\Miller\documents\visual studio 2017\Projects\LabAct4_Miller\UsingClasses2_MIllerV2\bin\Debug\UsingClasses2_MIllerV2.pdb
+C:\Users\Miller\documents\visual studio 2017\Projects\LabAct4_Miller\UsingClasses2_MIllerV2\obj\Debug\UsingClasses2_MIllerV2.exe
+C:\Users\Miller\documents\visual studio 2017\Projects\LabAct4_Miller\UsingClasses2_MIllerV2\obj\Debug\UsingClasses2_MIllerV2.pdb
