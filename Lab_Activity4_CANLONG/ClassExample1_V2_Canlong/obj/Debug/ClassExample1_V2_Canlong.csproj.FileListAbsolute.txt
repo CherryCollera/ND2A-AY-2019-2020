@@ -1,4 +1,0 @@
-D:\Catherine\Documents\Visual Studio 2017\Projects\Lab_Activity4_CANLONG\ClassExample1_V2_Canlong\bin\Debug\ClassExample1_V2_Canlong.exe
-D:\Catherine\Documents\Visual Studio 2017\Projects\Lab_Activity4_CANLONG\ClassExample1_V2_Canlong\bin\Debug\ClassExample1_V2_Canlong.pdb
-D:\Catherine\Documents\Visual Studio 2017\Projects\Lab_Activity4_CANLONG\ClassExample1_V2_Canlong\obj\Debug\ClassExample1_V2_Canlong.exe
-D:\Catherine\Documents\Visual Studio 2017\Projects\Lab_Activity4_CANLONG\ClassExample1_V2_Canlong\obj\Debug\ClassExample1_V2_Canlong.pdb

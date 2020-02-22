@@ -1,5 +1,0 @@
-D:\Catherine\Documents\Visual Studio 2017\Projects\Lab_Activity4_CANLONG\ClassExample2_V2\obj\Debug\ClassExample2_V2.csprojResolveAssemblyReference.cache
-D:\Catherine\Documents\Visual Studio 2017\Projects\Lab_Activity4_CANLONG\ClassExample2_V2\bin\Debug\ClassExample2_V2.exe
-D:\Catherine\Documents\Visual Studio 2017\Projects\Lab_Activity4_CANLONG\ClassExample2_V2\bin\Debug\ClassExample2_V2.pdb
-D:\Catherine\Documents\Visual Studio 2017\Projects\Lab_Activity4_CANLONG\ClassExample2_V2\obj\Debug\ClassExample2_V2.exe
-D:\Catherine\Documents\Visual Studio 2017\Projects\Lab_Activity4_CANLONG\ClassExample2_V2\obj\Debug\ClassExample2_V2.pdb
