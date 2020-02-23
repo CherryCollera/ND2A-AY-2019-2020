@@ -1,0 +1,5 @@
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity4_Ituralde\BasicOperations_Ituralde\bin\Debug\BasicOperations_Ituralde.exe.config
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity4_Ituralde\BasicOperations_Ituralde\bin\Debug\BasicOperations_Ituralde.exe
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity4_Ituralde\BasicOperations_Ituralde\bin\Debug\BasicOperations_Ituralde.pdb
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity4_Ituralde\BasicOperations_Ituralde\obj\Debug\BasicOperations_Ituralde.exe
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity4_Ituralde\BasicOperations_Ituralde\obj\Debug\BasicOperations_Ituralde.pdb
