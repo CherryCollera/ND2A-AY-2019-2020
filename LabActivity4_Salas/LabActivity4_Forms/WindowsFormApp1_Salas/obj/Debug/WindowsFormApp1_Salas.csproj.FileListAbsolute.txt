@@ -1,9 +1,0 @@
-c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms\WindowsFormApp1_Salas\bin\Debug\WindowsFormApp1_Salas.exe.config
-c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms\WindowsFormApp1_Salas\bin\Debug\WindowsFormApp1_Salas.exe
-c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms\WindowsFormApp1_Salas\bin\Debug\WindowsFormApp1_Salas.pdb
-c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms\WindowsFormApp1_Salas\obj\Debug\WindowsFormApp1_Salas.csprojResolveAssemblyReference.cache
-c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms\WindowsFormApp1_Salas\obj\Debug\WindowsFormApp1_Salas.Form1.resources
-c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms\WindowsFormApp1_Salas\obj\Debug\WindowsFormApp1_Salas.Properties.Resources.resources
-c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms\WindowsFormApp1_Salas\obj\Debug\WindowsFormApp1_Salas.csproj.GenerateResource.Cache
-c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms\WindowsFormApp1_Salas\obj\Debug\WindowsFormApp1_Salas.exe
-c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms\WindowsFormApp1_Salas\obj\Debug\WindowsFormApp1_Salas.pdb
