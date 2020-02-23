@@ -1,0 +1,4 @@
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Salas\ClassEXample2_Salas\bin\Debug\ClassEXample2_Salas.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Salas\ClassEXample2_Salas\bin\Debug\ClassEXample2_Salas.pdb
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Salas\ClassEXample2_Salas\obj\Debug\ClassEXample2_Salas.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Salas\ClassEXample2_Salas\obj\Debug\ClassEXample2_Salas.pdb
