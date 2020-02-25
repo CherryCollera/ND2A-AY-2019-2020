@@ -1,0 +1,6 @@
+D:\OOP\LabActivity04_Jimenez\version02\bin\Debug\version02.exe.config
+D:\OOP\LabActivity04_Jimenez\version02\bin\Debug\version02.exe
+D:\OOP\LabActivity04_Jimenez\version02\bin\Debug\version02.pdb
+D:\OOP\LabActivity04_Jimenez\version02\obj\Debug\version02.csprojResolveAssemblyReference.cache
+D:\OOP\LabActivity04_Jimenez\version02\obj\Debug\version02.exe
+D:\OOP\LabActivity04_Jimenez\version02\obj\Debug\version02.pdb
