@@ -1,0 +1,14 @@
+C:\Users\justi\source\repos\LabActivity4_DelaRosa\Classexample1\obj\Debug\Classexample1_delarosa.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\LabActivity4_DelaRosa\Classexample1\obj\Debug\Classexample1_delarosa.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\LabActivity4_DelaRosa\Classexample1\bin\Debug\Classexample1.exe.config
+C:\Users\justi\source\repos\LabActivity4_DelaRosa\Classexample1\bin\Debug\Classexample1.exe
+C:\Users\justi\source\repos\LabActivity4_DelaRosa\Classexample1\bin\Debug\Classexample1.pdb
+C:\Users\justi\source\repos\LabActivity4_DelaRosa\Classexample1\obj\Debug\Classexample1.exe
+C:\Users\justi\source\repos\LabActivity4_DelaRosa\Classexample1\obj\Debug\Classexample1.pdb
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\Classexample1\bin\Debug\Classexample1.exe.config
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\Classexample1\bin\Debug\Classexample1.exe
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\Classexample1\bin\Debug\Classexample1.pdb
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\Classexample1\obj\Debug\Classexample1_delarosa.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\Classexample1\obj\Debug\Classexample1_delarosa.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\Classexample1\obj\Debug\Classexample1.exe
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\Classexample1\obj\Debug\Classexample1.pdb

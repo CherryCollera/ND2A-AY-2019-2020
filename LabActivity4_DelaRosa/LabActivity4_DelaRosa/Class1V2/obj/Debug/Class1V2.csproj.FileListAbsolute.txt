@@ -1,0 +1,7 @@
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\Class1V2\obj\Debug\Class1V2.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\Class1V2\obj\Debug\Class1V2.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\Class1V2\bin\Debug\Class1V2.exe.config
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\Class1V2\bin\Debug\Class1V2.exe
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\Class1V2\bin\Debug\Class1V2.pdb
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\Class1V2\obj\Debug\Class1V2.exe
+C:\Users\justi\Desktop\LAB_ACT\LabActivity4_DelaRosa\Class1V2\obj\Debug\Class1V2.pdb

@@ -1,0 +1,12 @@
+C:\Users\Julian Kyrene Capuli\Documents\Visual Studio 2017\Projects\LabActivity4_Capuli\BasicOperations_Capuli\bin\Debug\BasicOperations_Capuli.exe.config
+C:\Users\Julian Kyrene Capuli\Documents\Visual Studio 2017\Projects\LabActivity4_Capuli\BasicOperations_Capuli\bin\Debug\BasicOperations_Capuli.exe
+C:\Users\Julian Kyrene Capuli\Documents\Visual Studio 2017\Projects\LabActivity4_Capuli\BasicOperations_Capuli\bin\Debug\BasicOperations_Capuli.pdb
+C:\Users\Julian Kyrene Capuli\Documents\Visual Studio 2017\Projects\LabActivity4_Capuli\BasicOperations_Capuli\obj\Debug\BasicOperations_Capuli.exe
+C:\Users\Julian Kyrene Capuli\Documents\Visual Studio 2017\Projects\LabActivity4_Capuli\BasicOperations_Capuli\obj\Debug\BasicOperations_Capuli.pdb
+C:\Users\Julian Kyrene Capuli\Documents\Visual Studio 2017\Projects\LabActivity4_Capuli\BasicOperations_Capuli\obj\Debug\BasicOperations_Capuli.csprojResolveAssemblyReference.cache
+C:\Users\ICT-5\Desktop\00001\LabActivity4_Capuli\BasicOperations_Capuli\bin\Debug\BasicOperations_Capuli.exe.config
+C:\Users\ICT-5\Desktop\00001\LabActivity4_Capuli\BasicOperations_Capuli\bin\Debug\BasicOperations_Capuli.exe
+C:\Users\ICT-5\Desktop\00001\LabActivity4_Capuli\BasicOperations_Capuli\bin\Debug\BasicOperations_Capuli.pdb
+C:\Users\ICT-5\Desktop\00001\LabActivity4_Capuli\BasicOperations_Capuli\obj\Debug\BasicOperations_Capuli.csprojResolveAssemblyReference.cache
+C:\Users\ICT-5\Desktop\00001\LabActivity4_Capuli\BasicOperations_Capuli\obj\Debug\BasicOperations_Capuli.exe
+C:\Users\ICT-5\Desktop\00001\LabActivity4_Capuli\BasicOperations_Capuli\obj\Debug\BasicOperations_Capuli.pdb

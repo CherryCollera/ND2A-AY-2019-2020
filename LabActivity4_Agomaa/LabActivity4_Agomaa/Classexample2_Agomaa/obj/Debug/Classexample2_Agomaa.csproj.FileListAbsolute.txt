@@ -1,0 +1,6 @@
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexample2_Agomaa\bin\Debug\Classexample2_Agomaa.exe.config
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexample2_Agomaa\bin\Debug\Classexample2_Agomaa.exe
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexample2_Agomaa\bin\Debug\Classexample2_Agomaa.pdb
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexample2_Agomaa\obj\Debug\Classexample2_Agomaa.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexample2_Agomaa\obj\Debug\Classexample2_Agomaa.exe
+C:\Users\justi\source\repos\LabActivity4_Agomaa\Classexample2_Agomaa\obj\Debug\Classexample2_Agomaa.pdb

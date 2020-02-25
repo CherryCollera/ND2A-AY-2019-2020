@@ -1,0 +1,11 @@
+C:\Users\justi\source\repos\LabActivity4_Agomaa\WindowsFormApp1_Agomaa\obj\Debug\WindowsFormApp1_Agomaa.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\LabActivity4_Agomaa\WindowsFormApp1_Agomaa\bin\Debug\WindowsFormApp1_Agomaa.exe.config
+C:\Users\justi\source\repos\LabActivity4_Agomaa\WindowsFormApp1_Agomaa\bin\Debug\WindowsFormApp1_Agomaa.exe
+C:\Users\justi\source\repos\LabActivity4_Agomaa\WindowsFormApp1_Agomaa\bin\Debug\WindowsFormApp1_Agomaa.pdb
+C:\Users\justi\source\repos\LabActivity4_Agomaa\WindowsFormApp1_Agomaa\obj\Debug\WindowsFormApp1_Agomaa.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\LabActivity4_Agomaa\WindowsFormApp1_Agomaa\obj\Debug\WindowsFormApp1_Agomaa.button1.resources
+C:\Users\justi\source\repos\LabActivity4_Agomaa\WindowsFormApp1_Agomaa\obj\Debug\WindowsFormApp1_Agomaa.csproj.GenerateResource.cache
+C:\Users\justi\source\repos\LabActivity4_Agomaa\WindowsFormApp1_Agomaa\obj\Debug\WindowsFormApp1_Agomaa.exe
+C:\Users\justi\source\repos\LabActivity4_Agomaa\WindowsFormApp1_Agomaa\obj\Debug\WindowsFormApp1_Agomaa.pdb
+C:\Users\justi\source\repos\LabActivity4_Agomaa\WindowsFormApp1_Agomaa\obj\Debug\WindowsFormApp1_Agomaa.Properties.Resources.resources
+C:\Users\justi\source\repos\LabActivity4_Agomaa\WindowsFormApp1_Agomaa\obj\Debug\WindowsFormApp1_Agomaa.Form1.resources

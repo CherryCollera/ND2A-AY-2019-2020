@@ -1,0 +1,5 @@
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity03_Jimenez\While\bin\Debug\While.exe.config
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity03_Jimenez\While\bin\Debug\While.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity03_Jimenez\While\bin\Debug\While.pdb
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity03_Jimenez\While\obj\Debug\While.exe
+c:\users\plenary\documents\visual studio 2017\Projects\LabActivity03_Jimenez\While\obj\Debug\While.pdb

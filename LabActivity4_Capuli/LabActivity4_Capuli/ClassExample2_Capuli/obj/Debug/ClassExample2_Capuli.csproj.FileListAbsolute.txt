@@ -1,0 +1,12 @@
+C:\Users\Asus\OneDrive\Desktop\LabActivity4_Capuli\ClassExample2_Capuli\obj\Debug\ClassExample2_Capuli.csprojResolveAssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\LabActivity4_Capuli\ClassExample2_Capuli\bin\Debug\ClassExample2_Capuli.exe.config
+C:\Users\Asus\OneDrive\Desktop\LabActivity4_Capuli\ClassExample2_Capuli\bin\Debug\ClassExample2_Capuli.exe
+C:\Users\Asus\OneDrive\Desktop\LabActivity4_Capuli\ClassExample2_Capuli\bin\Debug\ClassExample2_Capuli.pdb
+C:\Users\Asus\OneDrive\Desktop\LabActivity4_Capuli\ClassExample2_Capuli\obj\Debug\ClassExample2_Capuli.exe
+C:\Users\Asus\OneDrive\Desktop\LabActivity4_Capuli\ClassExample2_Capuli\obj\Debug\ClassExample2_Capuli.pdb
+C:\Users\ICT-5\Desktop\00001\LabActivity4_Capuli\ClassExample2_Capuli\bin\Debug\ClassExample2_Capuli.exe.config
+C:\Users\ICT-5\Desktop\00001\LabActivity4_Capuli\ClassExample2_Capuli\bin\Debug\ClassExample2_Capuli.exe
+C:\Users\ICT-5\Desktop\00001\LabActivity4_Capuli\ClassExample2_Capuli\bin\Debug\ClassExample2_Capuli.pdb
+C:\Users\ICT-5\Desktop\00001\LabActivity4_Capuli\ClassExample2_Capuli\obj\Debug\ClassExample2_Capuli.csprojResolveAssemblyReference.cache
+C:\Users\ICT-5\Desktop\00001\LabActivity4_Capuli\ClassExample2_Capuli\obj\Debug\ClassExample2_Capuli.exe
+C:\Users\ICT-5\Desktop\00001\LabActivity4_Capuli\ClassExample2_Capuli\obj\Debug\ClassExample2_Capuli.pdb

@@ -1,0 +1,5 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Paulo\ClassExample2v2_Paulo\bin\Debug\ClassExample2v2_Paulo.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Paulo\ClassExample2v2_Paulo\bin\Debug\ClassExample2v2_Paulo.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Paulo\ClassExample2v2_Paulo\bin\Debug\ClassExample2v2_Paulo.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Paulo\ClassExample2v2_Paulo\obj\Debug\ClassExample2v2_Paulo.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Paulo\ClassExample2v2_Paulo\obj\Debug\ClassExample2v2_Paulo.pdb
