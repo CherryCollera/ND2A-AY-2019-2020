@@ -1,5 +1,0 @@
-c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity04_Jimenez\ClassExample2_Jimenez\bin\Debug\ClassExample2_Jimenez.exe.config
-c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity04_Jimenez\ClassExample2_Jimenez\bin\Debug\ClassExample2_Jimenez.exe
-c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity04_Jimenez\ClassExample2_Jimenez\bin\Debug\ClassExample2_Jimenez.pdb
-c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity04_Jimenez\ClassExample2_Jimenez\obj\Debug\ClassExample2_Jimenez.exe
-c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity04_Jimenez\ClassExample2_Jimenez\obj\Debug\ClassExample2_Jimenez.pdb
