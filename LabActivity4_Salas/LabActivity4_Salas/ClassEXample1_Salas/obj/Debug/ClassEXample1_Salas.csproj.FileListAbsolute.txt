@@ -1,5 +1,0 @@
-d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Salas\ClassEXample1_Salas\bin\Debug\ClassEXample1_Salas.exe
-d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Salas\ClassEXample1_Salas\bin\Debug\ClassEXample1_Salas.pdb
-d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Salas\ClassEXample1_Salas\obj\Debug\ClassEXample1_Salas.csprojResolveAssemblyReference.cache
-d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Salas\ClassEXample1_Salas\obj\Debug\ClassEXample1_Salas.exe
-d:\catherine\documents\visual studio 2017\Projects\LabActivity4_Salas\ClassEXample1_Salas\obj\Debug\ClassEXample1_Salas.pdb
