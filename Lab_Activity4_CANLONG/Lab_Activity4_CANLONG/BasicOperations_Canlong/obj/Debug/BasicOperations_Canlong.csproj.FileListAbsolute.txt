@@ -1,0 +1,5 @@
+D:\Catherine\Documents\Visual Studio 2017\Projects\Lab_Activity4_CANLONG\BasicOperations_Canlong\obj\Debug\BasicOperations_Canlong.csprojResolveAssemblyReference.cache
+D:\Catherine\Documents\Visual Studio 2017\Projects\Lab_Activity4_CANLONG\BasicOperations_Canlong\bin\Debug\BasicOperations_Canlong.exe
+D:\Catherine\Documents\Visual Studio 2017\Projects\Lab_Activity4_CANLONG\BasicOperations_Canlong\bin\Debug\BasicOperations_Canlong.pdb
+D:\Catherine\Documents\Visual Studio 2017\Projects\Lab_Activity4_CANLONG\BasicOperations_Canlong\obj\Debug\BasicOperations_Canlong.exe
+D:\Catherine\Documents\Visual Studio 2017\Projects\Lab_Activity4_CANLONG\BasicOperations_Canlong\obj\Debug\BasicOperations_Canlong.pdb

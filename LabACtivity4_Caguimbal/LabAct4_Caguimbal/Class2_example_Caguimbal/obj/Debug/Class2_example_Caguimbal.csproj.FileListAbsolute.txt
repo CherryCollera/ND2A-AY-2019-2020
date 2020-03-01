@@ -1,0 +1,5 @@
+c:\users\juvyc\documents\visual studio 2017\Projects\LabAct4_Caguimbal\Class2_example_Caguimbal\bin\Debug\Class2_example_Caguimbal.exe.config
+c:\users\juvyc\documents\visual studio 2017\Projects\LabAct4_Caguimbal\Class2_example_Caguimbal\bin\Debug\Class2_example_Caguimbal.exe
+c:\users\juvyc\documents\visual studio 2017\Projects\LabAct4_Caguimbal\Class2_example_Caguimbal\bin\Debug\Class2_example_Caguimbal.pdb
+c:\users\juvyc\documents\visual studio 2017\Projects\LabAct4_Caguimbal\Class2_example_Caguimbal\obj\Debug\Class2_example_Caguimbal.exe
+c:\users\juvyc\documents\visual studio 2017\Projects\LabAct4_Caguimbal\Class2_example_Caguimbal\obj\Debug\Class2_example_Caguimbal.pdb

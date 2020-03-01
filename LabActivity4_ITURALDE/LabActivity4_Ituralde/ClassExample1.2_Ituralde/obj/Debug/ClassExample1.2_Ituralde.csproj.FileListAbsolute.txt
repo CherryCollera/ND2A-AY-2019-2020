@@ -1,0 +1,6 @@
+C:\Users\Julian Kyrene Capuli\documents\visual studio 2017\Projects\LabActivity4_Ituralde\ClassExample1.2_Ituralde\bin\Debug\ClassExample1.2_Ituralde.exe.config
+C:\Users\Julian Kyrene Capuli\documents\visual studio 2017\Projects\LabActivity4_Ituralde\ClassExample1.2_Ituralde\bin\Debug\ClassExample1.2_Ituralde.exe
+C:\Users\Julian Kyrene Capuli\documents\visual studio 2017\Projects\LabActivity4_Ituralde\ClassExample1.2_Ituralde\bin\Debug\ClassExample1.2_Ituralde.pdb
+C:\Users\Julian Kyrene Capuli\documents\visual studio 2017\Projects\LabActivity4_Ituralde\ClassExample1.2_Ituralde\obj\Debug\ClassExample1.2_Ituralde.csprojResolveAssemblyReference.cache
+C:\Users\Julian Kyrene Capuli\documents\visual studio 2017\Projects\LabActivity4_Ituralde\ClassExample1.2_Ituralde\obj\Debug\ClassExample1.2_Ituralde.exe
+C:\Users\Julian Kyrene Capuli\documents\visual studio 2017\Projects\LabActivity4_Ituralde\ClassExample1.2_Ituralde\obj\Debug\ClassExample1.2_Ituralde.pdb
