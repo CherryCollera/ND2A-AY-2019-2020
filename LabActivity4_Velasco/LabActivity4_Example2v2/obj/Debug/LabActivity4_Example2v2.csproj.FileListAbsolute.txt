@@ -1,0 +1,5 @@
+C:\Users\ICT-5\Desktop\LabActivity4_Velasco\LabActivity4_Example2v2\bin\Debug\LabActivity4_Example2v2.exe.config
+C:\Users\ICT-5\Desktop\LabActivity4_Velasco\LabActivity4_Example2v2\bin\Debug\LabActivity4_Example2v2.exe
+C:\Users\ICT-5\Desktop\LabActivity4_Velasco\LabActivity4_Example2v2\bin\Debug\LabActivity4_Example2v2.pdb
+C:\Users\ICT-5\Desktop\LabActivity4_Velasco\LabActivity4_Example2v2\obj\Debug\LabActivity4_Example2v2.exe
+C:\Users\ICT-5\Desktop\LabActivity4_Velasco\LabActivity4_Example2v2\obj\Debug\LabActivity4_Example2v2.pdb
