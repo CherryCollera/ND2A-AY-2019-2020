@@ -1,0 +1,6 @@
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabAct4_Caguimbal\Class1_Example_Caguimbal_V2\obj\Debug\Class1_Example_Caguimbal_V2.csprojResolveAssemblyReference.cache
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabAct4_Caguimbal\Class1_Example_Caguimbal_V2\bin\Debug\Class1_Example_Caguimbal_V2.exe.config
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabAct4_Caguimbal\Class1_Example_Caguimbal_V2\bin\Debug\Class1_Example_Caguimbal_V2.exe
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabAct4_Caguimbal\Class1_Example_Caguimbal_V2\bin\Debug\Class1_Example_Caguimbal_V2.pdb
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabAct4_Caguimbal\Class1_Example_Caguimbal_V2\obj\Debug\Class1_Example_Caguimbal_V2.exe
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabAct4_Caguimbal\Class1_Example_Caguimbal_V2\obj\Debug\Class1_Example_Caguimbal_V2.pdb

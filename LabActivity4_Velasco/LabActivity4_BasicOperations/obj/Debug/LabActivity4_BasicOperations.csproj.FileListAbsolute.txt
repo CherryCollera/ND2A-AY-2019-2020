@@ -1,0 +1,12 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Velasco\LabActivity4_BasicOperations\bin\Debug\LabActivity4_BasicOperations.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Velasco\LabActivity4_BasicOperations\bin\Debug\LabActivity4_BasicOperations.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Velasco\LabActivity4_BasicOperations\bin\Debug\LabActivity4_BasicOperations.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Velasco\LabActivity4_BasicOperations\obj\Debug\LabActivity4_BasicOperations.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Velasco\LabActivity4_BasicOperations\obj\Debug\LabActivity4_BasicOperations.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Velasco\LabActivity4_BasicOperations\obj\Debug\LabActivity4_BasicOperations.pdb
+C:\Users\ICT-5\Desktop\LabActivity4_Velasco\LabActivity4_BasicOperations\bin\Debug\LabActivity4_BasicOperations.exe.config
+C:\Users\ICT-5\Desktop\LabActivity4_Velasco\LabActivity4_BasicOperations\bin\Debug\LabActivity4_BasicOperations.exe
+C:\Users\ICT-5\Desktop\LabActivity4_Velasco\LabActivity4_BasicOperations\bin\Debug\LabActivity4_BasicOperations.pdb
+C:\Users\ICT-5\Desktop\LabActivity4_Velasco\LabActivity4_BasicOperations\obj\Debug\LabActivity4_BasicOperations.csprojResolveAssemblyReference.cache
+C:\Users\ICT-5\Desktop\LabActivity4_Velasco\LabActivity4_BasicOperations\obj\Debug\LabActivity4_BasicOperations.exe
+C:\Users\ICT-5\Desktop\LabActivity4_Velasco\LabActivity4_BasicOperations\obj\Debug\LabActivity4_BasicOperations.pdb
