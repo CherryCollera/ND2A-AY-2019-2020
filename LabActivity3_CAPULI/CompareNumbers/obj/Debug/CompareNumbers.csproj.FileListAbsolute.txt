@@ -14,3 +14,9 @@ C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\CompareNumbers\bin\Deb
 C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\CompareNumbers\obj\Debug\CompareNumbers.csprojResolveAssemblyReference.cache
 C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\CompareNumbers\obj\Debug\CompareNumbers.exe
 C:\Users\Julian Kyrene Capuli\Desktop\LabActivity3_CAPULI\CompareNumbers\obj\Debug\CompareNumbers.pdb
+C:\Users\Julian Kyrene Capuli\Documents\GitHub\ND2A-AY-2019-2020\LabActivity3_CAPULI\CompareNumbers\bin\Debug\CompareNumbers.exe.config
+C:\Users\Julian Kyrene Capuli\Documents\GitHub\ND2A-AY-2019-2020\LabActivity3_CAPULI\CompareNumbers\bin\Debug\CompareNumbers.exe
+C:\Users\Julian Kyrene Capuli\Documents\GitHub\ND2A-AY-2019-2020\LabActivity3_CAPULI\CompareNumbers\bin\Debug\CompareNumbers.pdb
+C:\Users\Julian Kyrene Capuli\Documents\GitHub\ND2A-AY-2019-2020\LabActivity3_CAPULI\CompareNumbers\obj\Debug\CompareNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Julian Kyrene Capuli\Documents\GitHub\ND2A-AY-2019-2020\LabActivity3_CAPULI\CompareNumbers\obj\Debug\CompareNumbers.exe
+C:\Users\Julian Kyrene Capuli\Documents\GitHub\ND2A-AY-2019-2020\LabActivity3_CAPULI\CompareNumbers\obj\Debug\CompareNumbers.pdb
