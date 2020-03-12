@@ -1,0 +1,5 @@
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity4_Ituralde\ClassExample2_Ituralde\bin\Debug\ClassExample2_Ituralde.exe.config
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity4_Ituralde\ClassExample2_Ituralde\bin\Debug\ClassExample2_Ituralde.exe
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity4_Ituralde\ClassExample2_Ituralde\bin\Debug\ClassExample2_Ituralde.pdb
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity4_Ituralde\ClassExample2_Ituralde\obj\Debug\ClassExample2_Ituralde.exe
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity4_Ituralde\ClassExample2_Ituralde\obj\Debug\ClassExample2_Ituralde.pdb

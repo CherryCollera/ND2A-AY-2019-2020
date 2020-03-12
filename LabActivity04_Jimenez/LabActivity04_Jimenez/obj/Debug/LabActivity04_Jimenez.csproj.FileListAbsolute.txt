@@ -1,0 +1,6 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity04_Jimenez\LabActivity04_Jimenez\bin\Debug\LabActivity04_Jimenez.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity04_Jimenez\LabActivity04_Jimenez\bin\Debug\LabActivity04_Jimenez.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity04_Jimenez\LabActivity04_Jimenez\bin\Debug\LabActivity04_Jimenez.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity04_Jimenez\LabActivity04_Jimenez\obj\Debug\LabActivity04_Jimenez.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity04_Jimenez\LabActivity04_Jimenez\obj\Debug\LabActivity04_Jimenez.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity04_Jimenez\LabActivity04_Jimenez\obj\Debug\LabActivity04_Jimenez.pdb

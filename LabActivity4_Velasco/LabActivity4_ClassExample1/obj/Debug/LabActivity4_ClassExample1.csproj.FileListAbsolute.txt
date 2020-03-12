@@ -1,0 +1,12 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Velasco\LabActivity4_ClassExample1\obj\Debug\LabActivity4_ClassExample1.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Velasco\LabActivity4_ClassExample1\bin\Debug\LabActivity4_ClassExample1.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Velasco\LabActivity4_ClassExample1\bin\Debug\LabActivity4_ClassExample1.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Velasco\LabActivity4_ClassExample1\bin\Debug\LabActivity4_ClassExample1.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Velasco\LabActivity4_ClassExample1\obj\Debug\LabActivity4_ClassExample1.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Velasco\LabActivity4_ClassExample1\obj\Debug\LabActivity4_ClassExample1.pdb
+C:\Users\ICT-5\Desktop\LabActivity4_Velasco\LabActivity4_ClassExample1\bin\Debug\LabActivity4_ClassExample1.exe.config
+C:\Users\ICT-5\Desktop\LabActivity4_Velasco\LabActivity4_ClassExample1\bin\Debug\LabActivity4_ClassExample1.exe
+C:\Users\ICT-5\Desktop\LabActivity4_Velasco\LabActivity4_ClassExample1\bin\Debug\LabActivity4_ClassExample1.pdb
+C:\Users\ICT-5\Desktop\LabActivity4_Velasco\LabActivity4_ClassExample1\obj\Debug\LabActivity4_ClassExample1.csprojResolveAssemblyReference.cache
+C:\Users\ICT-5\Desktop\LabActivity4_Velasco\LabActivity4_ClassExample1\obj\Debug\LabActivity4_ClassExample1.exe
+C:\Users\ICT-5\Desktop\LabActivity4_Velasco\LabActivity4_ClassExample1\obj\Debug\LabActivity4_ClassExample1.pdb

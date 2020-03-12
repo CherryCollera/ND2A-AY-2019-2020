@@ -1,0 +1,10 @@
+C:\Users\Julian Kyrene Capuli\Documents\Visual Studio 2017\Projects\LabActivity4_Capuli\ClassExample1.2_Capuli\bin\Debug\ClassExample1.2_Capuli.exe.config
+C:\Users\Julian Kyrene Capuli\Documents\Visual Studio 2017\Projects\LabActivity4_Capuli\ClassExample1.2_Capuli\bin\Debug\ClassExample1.2_Capuli.exe
+C:\Users\Julian Kyrene Capuli\Documents\Visual Studio 2017\Projects\LabActivity4_Capuli\ClassExample1.2_Capuli\bin\Debug\ClassExample1.2_Capuli.pdb
+C:\Users\Julian Kyrene Capuli\Documents\Visual Studio 2017\Projects\LabActivity4_Capuli\ClassExample1.2_Capuli\obj\Debug\ClassExample1.2_Capuli.exe
+C:\Users\Julian Kyrene Capuli\Documents\Visual Studio 2017\Projects\LabActivity4_Capuli\ClassExample1.2_Capuli\obj\Debug\ClassExample1.2_Capuli.pdb
+C:\Users\ICT-5\Desktop\00001\LabActivity4_Capuli\ClassExample1.2_Capuli\bin\Debug\ClassExample1.2_Capuli.exe.config
+C:\Users\ICT-5\Desktop\00001\LabActivity4_Capuli\ClassExample1.2_Capuli\bin\Debug\ClassExample1.2_Capuli.exe
+C:\Users\ICT-5\Desktop\00001\LabActivity4_Capuli\ClassExample1.2_Capuli\bin\Debug\ClassExample1.2_Capuli.pdb
+C:\Users\ICT-5\Desktop\00001\LabActivity4_Capuli\ClassExample1.2_Capuli\obj\Debug\ClassExample1.2_Capuli.exe
+C:\Users\ICT-5\Desktop\00001\LabActivity4_Capuli\ClassExample1.2_Capuli\obj\Debug\ClassExample1.2_Capuli.pdb
