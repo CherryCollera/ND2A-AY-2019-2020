@@ -1,0 +1,10 @@
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6a_Adriano\DataGridView\bin\Debug\students.mdb
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6a_Adriano\DataGridView\bin\Debug\DataGridView.exe.config
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6a_Adriano\DataGridView\bin\Debug\DataGridView.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6a_Adriano\DataGridView\bin\Debug\DataGridView.pdb
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6a_Adriano\DataGridView\obj\Debug\DataGridView.csprojResolveAssemblyReference.cache
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6a_Adriano\DataGridView\obj\Debug\DataGridView.Form1.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6a_Adriano\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6a_Adriano\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.Cache
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6a_Adriano\DataGridView\obj\Debug\DataGridView.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6a_Adriano\DataGridView\obj\Debug\DataGridView.pdb
