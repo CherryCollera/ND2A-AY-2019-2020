@@ -1,0 +1,10 @@
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_DelaRosa\DataGrid_DelaRosa\bin\Debug\students.mdb
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_DelaRosa\DataGrid_DelaRosa\bin\Debug\DataGrid_DelaRosa.exe.config
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_DelaRosa\DataGrid_DelaRosa\bin\Debug\DataGrid_DelaRosa.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_DelaRosa\DataGrid_DelaRosa\bin\Debug\DataGrid_DelaRosa.pdb
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_DelaRosa\DataGrid_DelaRosa\obj\Debug\DataGrid_DelaRosa.csprojResolveAssemblyReference.cache
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_DelaRosa\DataGrid_DelaRosa\obj\Debug\DataGrid_DelaRosa.Form1.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_DelaRosa\DataGrid_DelaRosa\obj\Debug\DataGrid_DelaRosa.Properties.Resources.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_DelaRosa\DataGrid_DelaRosa\obj\Debug\DataGrid_DelaRosa.csproj.GenerateResource.Cache
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_DelaRosa\DataGrid_DelaRosa\obj\Debug\DataGrid_DelaRosa.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_DelaRosa\DataGrid_DelaRosa\obj\Debug\DataGrid_DelaRosa.pdb
