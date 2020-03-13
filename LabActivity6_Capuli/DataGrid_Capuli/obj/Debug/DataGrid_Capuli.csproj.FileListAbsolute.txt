@@ -1,0 +1,10 @@
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity6_Capuli\DataGrid_Capuli\bin\Debug\students.mdb
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity6_Capuli\DataGrid_Capuli\bin\Debug\DataGrid_Capuli.exe.config
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity6_Capuli\DataGrid_Capuli\bin\Debug\DataGrid_Capuli.exe
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity6_Capuli\DataGrid_Capuli\bin\Debug\DataGrid_Capuli.pdb
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity6_Capuli\DataGrid_Capuli\obj\Debug\DataGrid_Capuli.csprojResolveAssemblyReference.cache
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity6_Capuli\DataGrid_Capuli\obj\Debug\DataGrid_Capuli.Form1.resources
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity6_Capuli\DataGrid_Capuli\obj\Debug\DataGrid_Capuli.Properties.Resources.resources
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity6_Capuli\DataGrid_Capuli\obj\Debug\DataGrid_Capuli.csproj.GenerateResource.Cache
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity6_Capuli\DataGrid_Capuli\obj\Debug\DataGrid_Capuli.exe
+c:\users\julian kyrene capuli\documents\visual studio 2017\Projects\LabActivity6_Capuli\DataGrid_Capuli\obj\Debug\DataGrid_Capuli.pdb
