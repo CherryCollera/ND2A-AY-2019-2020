@@ -1,0 +1,11 @@
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2017\Projects\LabActivity6_Desipida\DataBinding\bin\Debug\students.mdb
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2017\Projects\LabActivity6_Desipida\DataBinding\bin\Debug\DataBinding.exe.config
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2017\Projects\LabActivity6_Desipida\DataBinding\bin\Debug\DataBinding.exe
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2017\Projects\LabActivity6_Desipida\DataBinding\bin\Debug\DataBinding.pdb
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2017\Projects\LabActivity6_Desipida\DataBinding\obj\Debug\DataBinding.csprojAssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2017\Projects\LabActivity6_Desipida\DataBinding\obj\Debug\DataBinding.Form1.resources
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2017\Projects\LabActivity6_Desipida\DataBinding\obj\Debug\DataBinding.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2017\Projects\LabActivity6_Desipida\DataBinding\obj\Debug\DataBinding.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2017\Projects\LabActivity6_Desipida\DataBinding\obj\Debug\DataBinding.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2017\Projects\LabActivity6_Desipida\DataBinding\obj\Debug\DataBinding.exe
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2017\Projects\LabActivity6_Desipida\DataBinding\obj\Debug\DataBinding.pdb
