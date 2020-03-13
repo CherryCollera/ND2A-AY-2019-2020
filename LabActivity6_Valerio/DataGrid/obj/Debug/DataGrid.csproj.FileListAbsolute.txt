@@ -1,0 +1,10 @@
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Valerio\DataGrid\bin\Debug\students.mdb
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Valerio\DataGrid\bin\Debug\DataGrid.exe.config
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Valerio\DataGrid\bin\Debug\DataGrid.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Valerio\DataGrid\bin\Debug\DataGrid.pdb
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Valerio\DataGrid\obj\Debug\DataGrid.csprojResolveAssemblyReference.cache
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Valerio\DataGrid\obj\Debug\DataGrid.Form1.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Valerio\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Valerio\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.Cache
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Valerio\DataGrid\obj\Debug\DataGrid.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6_Valerio\DataGrid\obj\Debug\DataGrid.pdb
