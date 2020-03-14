@@ -1,0 +1,32 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity5_Paulo\Calculator\bin\Debug\Calculator.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity5_Paulo\Calculator\bin\Debug\Calculator.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity5_Paulo\Calculator\bin\Debug\Calculator.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.pdb
+C:\Users\ICT-7\Desktop\LabActivity5_Paulo\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ICT-7\Desktop\LabActivity5_Paulo\Calculator\bin\Debug\Calculator.exe
+C:\Users\ICT-7\Desktop\LabActivity5_Paulo\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ICT-7\Desktop\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\ICT-7\Desktop\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\ICT-7\Desktop\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\ICT-7\Desktop\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.exe
+C:\Users\ICT-7\Desktop\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.pdb
+C:\Users\ICT-7\Desktop\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.Form2.resources
+C:\Users\ICT-7\Desktop\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.Form3.resources
+C:\Users\ICT-7\Desktop\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.Form4.resources
+C:\Users\Camille Jade\Desktop\LabActivity5_Paulo\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Camille Jade\Desktop\LabActivity5_Paulo\Calculator\bin\Debug\Calculator.exe
+C:\Users\Camille Jade\Desktop\LabActivity5_Paulo\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Camille Jade\Desktop\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Camille Jade\Desktop\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Camille Jade\Desktop\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.Form2.resources
+C:\Users\Camille Jade\Desktop\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.Form4.resources
+C:\Users\Camille Jade\Desktop\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.Form3.resources
+C:\Users\Camille Jade\Desktop\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Camille Jade\Desktop\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Camille Jade\Desktop\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.exe
+C:\Users\Camille Jade\Desktop\LabActivity5_Paulo\Calculator\obj\Debug\Calculator.pdb
