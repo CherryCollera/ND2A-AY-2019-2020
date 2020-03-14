@@ -1,0 +1,20 @@
+c:\users\ict-7\documents\visual studio 2017\Projects\Laboratory6_CANLONG\Data_grid_CANLONG\bin\Debug\students.mdb
+c:\users\ict-7\documents\visual studio 2017\Projects\Laboratory6_CANLONG\Data_grid_CANLONG\bin\Debug\Data_grid_CANLONG.exe.config
+c:\users\ict-7\documents\visual studio 2017\Projects\Laboratory6_CANLONG\Data_grid_CANLONG\bin\Debug\Data_grid_CANLONG.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\Laboratory6_CANLONG\Data_grid_CANLONG\bin\Debug\Data_grid_CANLONG.pdb
+c:\users\ict-7\documents\visual studio 2017\Projects\Laboratory6_CANLONG\Data_grid_CANLONG\obj\Debug\Data_grid_CANLONG.csprojResolveAssemblyReference.cache
+c:\users\ict-7\documents\visual studio 2017\Projects\Laboratory6_CANLONG\Data_grid_CANLONG\obj\Debug\Data_grid_CANLONG.Form1.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\Laboratory6_CANLONG\Data_grid_CANLONG\obj\Debug\Data_grid_CANLONG.Properties.Resources.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\Laboratory6_CANLONG\Data_grid_CANLONG\obj\Debug\Data_grid_CANLONG.csproj.GenerateResource.Cache
+c:\users\ict-7\documents\visual studio 2017\Projects\Laboratory6_CANLONG\Data_grid_CANLONG\obj\Debug\Data_grid_CANLONG.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\Laboratory6_CANLONG\Data_grid_CANLONG\obj\Debug\Data_grid_CANLONG.pdb
+D:\Catherine\Documents\LABS\OOP PROGRAMS\Laboratory6_CANLONG\Data_grid_CANLONG\bin\Debug\students.mdb
+D:\Catherine\Documents\LABS\OOP PROGRAMS\Laboratory6_CANLONG\Data_grid_CANLONG\bin\Debug\Data_grid_CANLONG.exe.config
+D:\Catherine\Documents\LABS\OOP PROGRAMS\Laboratory6_CANLONG\Data_grid_CANLONG\bin\Debug\Data_grid_CANLONG.exe
+D:\Catherine\Documents\LABS\OOP PROGRAMS\Laboratory6_CANLONG\Data_grid_CANLONG\bin\Debug\Data_grid_CANLONG.pdb
+D:\Catherine\Documents\LABS\OOP PROGRAMS\Laboratory6_CANLONG\Data_grid_CANLONG\obj\Debug\Data_grid_CANLONG.csprojResolveAssemblyReference.cache
+D:\Catherine\Documents\LABS\OOP PROGRAMS\Laboratory6_CANLONG\Data_grid_CANLONG\obj\Debug\Data_grid_CANLONG.Form1.resources
+D:\Catherine\Documents\LABS\OOP PROGRAMS\Laboratory6_CANLONG\Data_grid_CANLONG\obj\Debug\Data_grid_CANLONG.Properties.Resources.resources
+D:\Catherine\Documents\LABS\OOP PROGRAMS\Laboratory6_CANLONG\Data_grid_CANLONG\obj\Debug\Data_grid_CANLONG.csproj.GenerateResource.Cache
+D:\Catherine\Documents\LABS\OOP PROGRAMS\Laboratory6_CANLONG\Data_grid_CANLONG\obj\Debug\Data_grid_CANLONG.exe
+D:\Catherine\Documents\LABS\OOP PROGRAMS\Laboratory6_CANLONG\Data_grid_CANLONG\obj\Debug\Data_grid_CANLONG.pdb
