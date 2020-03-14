@@ -1,0 +1,20 @@
+C:\Users\ICT-7\Documents\Visual Studio 2017\Projects\DataBinding\LabActivity6_Paulo\bin\Debug\students.mdb
+C:\Users\ICT-7\Documents\Visual Studio 2017\Projects\DataBinding\LabActivity6_Paulo\bin\Debug\LabActivity6_Paulo.exe.config
+C:\Users\ICT-7\Documents\Visual Studio 2017\Projects\DataBinding\LabActivity6_Paulo\bin\Debug\LabActivity6_Paulo.exe
+C:\Users\ICT-7\Documents\Visual Studio 2017\Projects\DataBinding\LabActivity6_Paulo\bin\Debug\LabActivity6_Paulo.pdb
+C:\Users\ICT-7\Documents\Visual Studio 2017\Projects\DataBinding\LabActivity6_Paulo\obj\Debug\LabActivity6_Paulo.csprojResolveAssemblyReference.cache
+C:\Users\ICT-7\Documents\Visual Studio 2017\Projects\DataBinding\LabActivity6_Paulo\obj\Debug\LabActivity6_Paulo.Form1.resources
+C:\Users\ICT-7\Documents\Visual Studio 2017\Projects\DataBinding\LabActivity6_Paulo\obj\Debug\LabActivity6_Paulo.Properties.Resources.resources
+C:\Users\ICT-7\Documents\Visual Studio 2017\Projects\DataBinding\LabActivity6_Paulo\obj\Debug\LabActivity6_Paulo.csproj.GenerateResource.Cache
+C:\Users\ICT-7\Documents\Visual Studio 2017\Projects\DataBinding\LabActivity6_Paulo\obj\Debug\LabActivity6_Paulo.exe
+C:\Users\ICT-7\Documents\Visual Studio 2017\Projects\DataBinding\LabActivity6_Paulo\obj\Debug\LabActivity6_Paulo.pdb
+C:\Users\Camille Jade\Desktop\DataBinding\LabActivity6_Paulo\bin\Debug\students.mdb
+C:\Users\Camille Jade\Desktop\DataBinding\LabActivity6_Paulo\bin\Debug\LabActivity6_Paulo.exe.config
+C:\Users\Camille Jade\Desktop\DataBinding\LabActivity6_Paulo\bin\Debug\LabActivity6_Paulo.exe
+C:\Users\Camille Jade\Desktop\DataBinding\LabActivity6_Paulo\bin\Debug\LabActivity6_Paulo.pdb
+C:\Users\Camille Jade\Desktop\DataBinding\LabActivity6_Paulo\obj\Debug\LabActivity6_Paulo.csprojResolveAssemblyReference.cache
+C:\Users\Camille Jade\Desktop\DataBinding\LabActivity6_Paulo\obj\Debug\LabActivity6_Paulo.Form1.resources
+C:\Users\Camille Jade\Desktop\DataBinding\LabActivity6_Paulo\obj\Debug\LabActivity6_Paulo.Properties.Resources.resources
+C:\Users\Camille Jade\Desktop\DataBinding\LabActivity6_Paulo\obj\Debug\LabActivity6_Paulo.csproj.GenerateResource.Cache
+C:\Users\Camille Jade\Desktop\DataBinding\LabActivity6_Paulo\obj\Debug\LabActivity6_Paulo.exe
+C:\Users\Camille Jade\Desktop\DataBinding\LabActivity6_Paulo\obj\Debug\LabActivity6_Paulo.pdb
