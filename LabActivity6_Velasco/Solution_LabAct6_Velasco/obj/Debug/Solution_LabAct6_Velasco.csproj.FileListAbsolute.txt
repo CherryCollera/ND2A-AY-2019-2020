@@ -1,0 +1,11 @@
+C:\Users\John Kyle\source\repos\DataGridView_Velasco\Solution_LabAct6_Velasco\bin\Debug\students.mdb
+C:\Users\John Kyle\source\repos\DataGridView_Velasco\Solution_LabAct6_Velasco\bin\Debug\Solution_LabAct6_Velasco.exe.config
+C:\Users\John Kyle\source\repos\DataGridView_Velasco\Solution_LabAct6_Velasco\bin\Debug\Solution_LabAct6_Velasco.exe
+C:\Users\John Kyle\source\repos\DataGridView_Velasco\Solution_LabAct6_Velasco\bin\Debug\Solution_LabAct6_Velasco.pdb
+C:\Users\John Kyle\source\repos\DataGridView_Velasco\Solution_LabAct6_Velasco\obj\Debug\Solution_LabAct6_Velasco.csprojAssemblyReference.cache
+C:\Users\John Kyle\source\repos\DataGridView_Velasco\Solution_LabAct6_Velasco\obj\Debug\Solution_LabAct6_Velasco.Form1.resources
+C:\Users\John Kyle\source\repos\DataGridView_Velasco\Solution_LabAct6_Velasco\obj\Debug\Solution_LabAct6_Velasco.Properties.Resources.resources
+C:\Users\John Kyle\source\repos\DataGridView_Velasco\Solution_LabAct6_Velasco\obj\Debug\Solution_LabAct6_Velasco.csproj.GenerateResource.cache
+C:\Users\John Kyle\source\repos\DataGridView_Velasco\Solution_LabAct6_Velasco\obj\Debug\Solution_LabAct6_Velasco.csproj.CoreCompileInputs.cache
+C:\Users\John Kyle\source\repos\DataGridView_Velasco\Solution_LabAct6_Velasco\obj\Debug\Solution_LabAct6_Velasco.exe
+C:\Users\John Kyle\source\repos\DataGridView_Velasco\Solution_LabAct6_Velasco\obj\Debug\Solution_LabAct6_Velasco.pdb
