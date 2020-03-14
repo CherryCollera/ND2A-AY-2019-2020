@@ -1,0 +1,10 @@
+c:\users\miller\documents\visual studio 2017\Projects\LabaAct6_Miller\DataGridView1_Miller\bin\Debug\students.mdb
+c:\users\miller\documents\visual studio 2017\Projects\LabaAct6_Miller\DataGridView1_Miller\bin\Debug\DataGridView1_Miller.exe.config
+c:\users\miller\documents\visual studio 2017\Projects\LabaAct6_Miller\DataGridView1_Miller\bin\Debug\DataGridView1_Miller.exe
+c:\users\miller\documents\visual studio 2017\Projects\LabaAct6_Miller\DataGridView1_Miller\bin\Debug\DataGridView1_Miller.pdb
+c:\users\miller\documents\visual studio 2017\Projects\LabaAct6_Miller\DataGridView1_Miller\obj\Debug\DataGridView1_Miller.Form1.resources
+c:\users\miller\documents\visual studio 2017\Projects\LabaAct6_Miller\DataGridView1_Miller\obj\Debug\DataGridView1_Miller.Properties.Resources.resources
+c:\users\miller\documents\visual studio 2017\Projects\LabaAct6_Miller\DataGridView1_Miller\obj\Debug\DataGridView1_Miller.csproj.GenerateResource.Cache
+c:\users\miller\documents\visual studio 2017\Projects\LabaAct6_Miller\DataGridView1_Miller\obj\Debug\DataGridView1_Miller.exe
+c:\users\miller\documents\visual studio 2017\Projects\LabaAct6_Miller\DataGridView1_Miller\obj\Debug\DataGridView1_Miller.pdb
+C:\Users\Miller\documents\visual studio 2017\Projects\LabaAct6_Miller\DataGridView1_Miller\obj\Debug\DataGridView1_Miller.csprojResolveAssemblyReference.cache
