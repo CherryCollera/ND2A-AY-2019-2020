@@ -1,0 +1,10 @@
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity6_Salas\bin\Debug\students.mdb
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity6_Salas\bin\Debug\LabActivity6_Salas.exe.config
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity6_Salas\bin\Debug\LabActivity6_Salas.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity6_Salas\bin\Debug\LabActivity6_Salas.pdb
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity6_Salas\obj\Debug\LabActivity6_Salas.csprojResolveAssemblyReference.cache
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity6_Salas\obj\Debug\LabActivity6_Salas.Form1.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity6_Salas\obj\Debug\LabActivity6_Salas.Properties.Resources.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity6_Salas\obj\Debug\LabActivity6_Salas.csproj.GenerateResource.Cache
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity6_Salas\obj\Debug\LabActivity6_Salas.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity6_Salas\obj\Debug\LabActivity6_Salas.pdb
