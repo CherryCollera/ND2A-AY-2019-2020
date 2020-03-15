@@ -1,0 +1,5 @@
+C:\Users\Asus\OneDrive\Desktop\OOP\LabActivity4_Desipida\ClassExample2_Desipida\bin\Debug\ClassExample2_Desipida.exe.config
+C:\Users\Asus\OneDrive\Desktop\OOP\LabActivity4_Desipida\ClassExample2_Desipida\bin\Debug\ClassExample2_Desipida.exe
+C:\Users\Asus\OneDrive\Desktop\OOP\LabActivity4_Desipida\ClassExample2_Desipida\bin\Debug\ClassExample2_Desipida.pdb
+C:\Users\Asus\OneDrive\Desktop\OOP\LabActivity4_Desipida\ClassExample2_Desipida\obj\Debug\ClassExample2_Desipida.exe
+C:\Users\Asus\OneDrive\Desktop\OOP\LabActivity4_Desipida\ClassExample2_Desipida\obj\Debug\ClassExample2_Desipida.pdb

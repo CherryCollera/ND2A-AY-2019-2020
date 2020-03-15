@@ -1,0 +1,20 @@
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity06_Jimenez\bin\Debug\students.mdb
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity06_Jimenez\bin\Debug\LabActivity06_Jimenez.exe.config
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity06_Jimenez\bin\Debug\LabActivity06_Jimenez.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity06_Jimenez\bin\Debug\LabActivity06_Jimenez.pdb
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity06_Jimenez\obj\Debug\LabActivity06_Jimenez.csprojResolveAssemblyReference.cache
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity06_Jimenez\obj\Debug\LabActivity06_Jimenez.Form1.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity06_Jimenez\obj\Debug\LabActivity06_Jimenez.Properties.Resources.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity06_Jimenez\obj\Debug\LabActivity06_Jimenez.csproj.GenerateResource.Cache
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity06_Jimenez\obj\Debug\LabActivity06_Jimenez.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\DataBinding\LabActivity06_Jimenez\obj\Debug\LabActivity06_Jimenez.pdb
+E:\OOP\DataBinding\LabActivity06_Jimenez\bin\Debug\students.mdb
+E:\OOP\DataBinding\LabActivity06_Jimenez\bin\Debug\LabActivity06_Jimenez.exe.config
+E:\OOP\DataBinding\LabActivity06_Jimenez\bin\Debug\LabActivity06_Jimenez.exe
+E:\OOP\DataBinding\LabActivity06_Jimenez\bin\Debug\LabActivity06_Jimenez.pdb
+E:\OOP\DataBinding\LabActivity06_Jimenez\obj\Debug\LabActivity06_Jimenez.csprojResolveAssemblyReference.cache
+E:\OOP\DataBinding\LabActivity06_Jimenez\obj\Debug\LabActivity06_Jimenez.Form1.resources
+E:\OOP\DataBinding\LabActivity06_Jimenez\obj\Debug\LabActivity06_Jimenez.Properties.Resources.resources
+E:\OOP\DataBinding\LabActivity06_Jimenez\obj\Debug\LabActivity06_Jimenez.csproj.GenerateResource.Cache
+E:\OOP\DataBinding\LabActivity06_Jimenez\obj\Debug\LabActivity06_Jimenez.exe
+E:\OOP\DataBinding\LabActivity06_Jimenez\obj\Debug\LabActivity06_Jimenez.pdb

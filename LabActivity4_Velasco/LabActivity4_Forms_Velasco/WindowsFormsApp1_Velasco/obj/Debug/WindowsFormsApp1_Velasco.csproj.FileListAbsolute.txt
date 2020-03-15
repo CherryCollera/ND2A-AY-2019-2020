@@ -1,0 +1,12 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms_Velasco\WindowsFormsApp1_Velasco\obj\Debug\WindowsFormsApp1_Velasco.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms_Velasco\WindowsFormsApp1_Velasco\obj\Debug\WindowsFormsApp1_Velasco.Form1.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms_Velasco\WindowsFormsApp1_Velasco\obj\Debug\WindowsFormsApp1_Velasco.Form2.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms_Velasco\WindowsFormsApp1_Velasco\obj\Debug\WindowsFormsApp1_Velasco.Properties.Resources.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms_Velasco\WindowsFormsApp1_Velasco\obj\Debug\WindowsFormsApp1_Velasco.csproj.GenerateResource.Cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms_Velasco\WindowsFormsApp1_Velasco\bin\Debug\WindowsFormsApp1_Velasco.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms_Velasco\WindowsFormsApp1_Velasco\bin\Debug\WindowsFormsApp1_Velasco.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms_Velasco\WindowsFormsApp1_Velasco\bin\Debug\WindowsFormsApp1_Velasco.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms_Velasco\WindowsFormsApp1_Velasco\obj\Debug\WindowsFormsApp1_Velasco.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms_Velasco\WindowsFormsApp1_Velasco\obj\Debug\WindowsFormsApp1_Velasco.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms_Velasco\WindowsFormsApp1_Velasco\obj\Debug\WindowsFormsApp1_Velasco.Form3.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Forms_Velasco\WindowsFormsApp1_Velasco\obj\Debug\WindowsFormsApp1_Velasco.Form4.resources

@@ -1,0 +1,5 @@
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabActivity4_Valerio\Class_Example2_Valerio_V2\bin\Debug\Class_Example2_Valerio_V2.exe.config
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabActivity4_Valerio\Class_Example2_Valerio_V2\bin\Debug\Class_Example2_Valerio_V2.exe
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabActivity4_Valerio\Class_Example2_Valerio_V2\bin\Debug\Class_Example2_Valerio_V2.pdb
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabActivity4_Valerio\Class_Example2_Valerio_V2\obj\Debug\Class_Example2_Valerio_V2.exe
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabActivity4_Valerio\Class_Example2_Valerio_V2\obj\Debug\Class_Example2_Valerio_V2.pdb

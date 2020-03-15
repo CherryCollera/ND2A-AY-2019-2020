@@ -1,0 +1,6 @@
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabActivity4_Valerio\Class_Example_Valerio\bin\Debug\Class_Example_Valerio.exe.config
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabActivity4_Valerio\Class_Example_Valerio\bin\Debug\Class_Example_Valerio.exe
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabActivity4_Valerio\Class_Example_Valerio\bin\Debug\Class_Example_Valerio.pdb
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabActivity4_Valerio\Class_Example_Valerio\obj\Debug\Class_Example_Valerio.csprojResolveAssemblyReference.cache
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabActivity4_Valerio\Class_Example_Valerio\obj\Debug\Class_Example_Valerio.exe
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabActivity4_Valerio\Class_Example_Valerio\obj\Debug\Class_Example_Valerio.pdb

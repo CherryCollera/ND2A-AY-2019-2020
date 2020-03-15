@@ -1,0 +1,12 @@
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Valerio_Form\LabActivity4_Valerio_Form\bin\Debug\LabActivity4_Valerio_Form.exe.config
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Valerio_Form\LabActivity4_Valerio_Form\bin\Debug\LabActivity4_Valerio_Form.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Valerio_Form\LabActivity4_Valerio_Form\bin\Debug\LabActivity4_Valerio_Form.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Valerio_Form\LabActivity4_Valerio_Form\obj\Debug\GreetMe.csprojResolveAssemblyReference.cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Valerio_Form\LabActivity4_Valerio_Form\obj\Debug\LabActivity4_Valerio_Form.Form1.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Valerio_Form\LabActivity4_Valerio_Form\obj\Debug\LabActivity4_Valerio_Form.Properties.Resources.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Valerio_Form\LabActivity4_Valerio_Form\obj\Debug\GreetMe.csproj.GenerateResource.Cache
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Valerio_Form\LabActivity4_Valerio_Form\obj\Debug\LabActivity4_Valerio_Form.exe
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Valerio_Form\LabActivity4_Valerio_Form\obj\Debug\LabActivity4_Valerio_Form.pdb
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Valerio_Form\LabActivity4_Valerio_Form\obj\Debug\LabActivity4_Valerio_Form.Form2.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Valerio_Form\LabActivity4_Valerio_Form\obj\Debug\LabActivity4_Valerio_Form.Form3.resources
+c:\users\ict-5\documents\visual studio 2017\Projects\LabActivity4_Valerio_Form\LabActivity4_Valerio_Form\obj\Debug\LabActivity4_Valerio_Form.Form4.resources

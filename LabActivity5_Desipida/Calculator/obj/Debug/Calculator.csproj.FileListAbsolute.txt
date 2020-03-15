@@ -1,0 +1,11 @@
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivity5_Desipida\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivity5_Desipida\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivity5_Desipida\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivity5_Desipida\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivity5_Desipida\Calculator\bin\Debug\Calculator.exe.config
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivity5_Desipida\Calculator\bin\Debug\Calculator.exe
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivity5_Desipida\Calculator\bin\Debug\Calculator.pdb
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivity5_Desipida\Calculator\obj\Debug\Calculator.exe
+c:\users\asus\onedrive\documents\visual studio 2017\Projects\LabActivity5_Desipida\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2017\Projects\LabActivity5_Desipida\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Asus\OneDrive\Documents\Visual Studio 2017\Projects\LabActivity5_Desipida\Calculator\obj\Debug\Calculator.Form3.resources

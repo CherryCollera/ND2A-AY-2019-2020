@@ -1,0 +1,5 @@
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabAct4_Caguimbal\BasicOperation\bin\Debug\BasicOperation.exe.config
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabAct4_Caguimbal\BasicOperation\bin\Debug\BasicOperation.exe
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabAct4_Caguimbal\BasicOperation\bin\Debug\BasicOperation.pdb
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabAct4_Caguimbal\BasicOperation\obj\Debug\BasicOperation.exe
+C:\Users\juvyc\Documents\Visual Studio 2017\Projects\LabAct4_Caguimbal\BasicOperation\obj\Debug\BasicOperation.pdb

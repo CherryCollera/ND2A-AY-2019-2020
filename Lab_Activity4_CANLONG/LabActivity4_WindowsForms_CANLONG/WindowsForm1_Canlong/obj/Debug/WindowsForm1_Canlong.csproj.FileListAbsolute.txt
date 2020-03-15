@@ -1,0 +1,11 @@
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_WindowsForms_CANLONG\WindowsForm1_Canlong\bin\Debug\WindowsForm1_Canlong.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_WindowsForms_CANLONG\WindowsForm1_Canlong\bin\Debug\WindowsForm1_Canlong.pdb
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_WindowsForms_CANLONG\WindowsForm1_Canlong\obj\Debug\WindowsForm1_Canlong.csprojResolveAssemblyReference.cache
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_WindowsForms_CANLONG\WindowsForm1_Canlong\obj\Debug\WindowsForm1_Canlong.Form1.resources
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_WindowsForms_CANLONG\WindowsForm1_Canlong\obj\Debug\WindowsForm1_Canlong.Properties.Resources.resources
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_WindowsForms_CANLONG\WindowsForm1_Canlong\obj\Debug\WindowsForm1_Canlong.csproj.GenerateResource.Cache
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_WindowsForms_CANLONG\WindowsForm1_Canlong\obj\Debug\WindowsForm1_Canlong.exe
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_WindowsForms_CANLONG\WindowsForm1_Canlong\obj\Debug\WindowsForm1_Canlong.pdb
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_WindowsForms_CANLONG\WindowsForm1_Canlong\obj\Debug\WindowsForm1_Canlong.Form2.resources
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_WindowsForms_CANLONG\WindowsForm1_Canlong\obj\Debug\WindowsForm1_Canlong.Form3.resources
+d:\catherine\documents\visual studio 2017\Projects\LabActivity4_WindowsForms_CANLONG\WindowsForm1_Canlong\obj\Debug\WindowsForm1_Canlong.Form4.resources

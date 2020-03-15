@@ -1,0 +1,30 @@
+c:\users\ict-7\documents\visual studio 2017\Projects\LabAct6_Caguimbal\DataGrid\bin\Debug\students.mdb
+c:\users\ict-7\documents\visual studio 2017\Projects\LabAct6_Caguimbal\DataGrid\bin\Debug\DataGrid.exe.config
+c:\users\ict-7\documents\visual studio 2017\Projects\LabAct6_Caguimbal\DataGrid\bin\Debug\DataGrid.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\LabAct6_Caguimbal\DataGrid\bin\Debug\DataGrid.pdb
+c:\users\ict-7\documents\visual studio 2017\Projects\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.csprojResolveAssemblyReference.cache
+c:\users\ict-7\documents\visual studio 2017\Projects\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.Form1.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.Cache
+c:\users\ict-7\documents\visual studio 2017\Projects\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.pdb
+G:\LabAct6_Caguimbal\DataGrid\bin\Debug\students.mdb
+G:\LabAct6_Caguimbal\DataGrid\bin\Debug\DataGrid.exe.config
+G:\LabAct6_Caguimbal\DataGrid\bin\Debug\DataGrid.exe
+G:\LabAct6_Caguimbal\DataGrid\bin\Debug\DataGrid.pdb
+G:\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.csprojResolveAssemblyReference.cache
+G:\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.Form1.resources
+G:\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+G:\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.Cache
+G:\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.exe
+G:\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.pdb
+C:\Users\juvyc\Desktop\LabAct6_Caguimbal\DataGrid\bin\Debug\students.mdb
+C:\Users\juvyc\Desktop\LabAct6_Caguimbal\DataGrid\bin\Debug\DataGrid.exe.config
+C:\Users\juvyc\Desktop\LabAct6_Caguimbal\DataGrid\bin\Debug\DataGrid.exe
+C:\Users\juvyc\Desktop\LabAct6_Caguimbal\DataGrid\bin\Debug\DataGrid.pdb
+C:\Users\juvyc\Desktop\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.csprojResolveAssemblyReference.cache
+C:\Users\juvyc\Desktop\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.Form1.resources
+C:\Users\juvyc\Desktop\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+C:\Users\juvyc\Desktop\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.Cache
+C:\Users\juvyc\Desktop\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.exe
+C:\Users\juvyc\Desktop\LabAct6_Caguimbal\DataGrid\obj\Debug\DataGrid.pdb

@@ -1,0 +1,10 @@
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6\DataGridview_David\bin\Debug\students.mdb
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6\DataGridview_David\bin\Debug\DataGridview_David.exe.config
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6\DataGridview_David\bin\Debug\DataGridview_David.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6\DataGridview_David\bin\Debug\DataGridview_David.pdb
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6\DataGridview_David\obj\Debug\DataGridview_David.csprojResolveAssemblyReference.cache
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6\DataGridview_David\obj\Debug\DataGridview_David.Form1.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6\DataGridview_David\obj\Debug\DataGridview_David.Properties.Resources.resources
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6\DataGridview_David\obj\Debug\DataGridview_David.csproj.GenerateResource.Cache
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6\DataGridview_David\obj\Debug\DataGridview_David.exe
+c:\users\ict-7\documents\visual studio 2017\Projects\LabActivity6\DataGridview_David\obj\Debug\DataGridview_David.pdb
