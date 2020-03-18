@@ -1,0 +1,11 @@
+C:\Users\Miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\obj\Debug\Calculator_Miller.csprojResolveAssemblyReference.cache
+C:\Users\Miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\obj\Debug\Calculator_Miller.csproj.GenerateResource.Cache
+C:\Users\Miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\Miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources

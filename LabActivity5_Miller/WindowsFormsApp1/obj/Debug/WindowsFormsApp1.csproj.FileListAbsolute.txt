@@ -1,0 +1,9 @@
+c:\users\miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\miller\documents\visual studio 2017\Projects\LabActivity5_Miller\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
